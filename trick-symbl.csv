@@ -1,1305 +1,1276 @@
-trick,name,,,,
-BRK-B,Berkshire Hathaway Inc.,,,,
-JPM,JPMorgan Chase & Co.,,,,
-V,Visa Inc.,,,,
-MA,Mastercard Incorporated,,,,
-BAC,Bank of America Corporation,,,,
-WFC,Wells Fargo & Company,,,,
-GS,"The Goldman Sachs Group, Inc.",,,,
-MS,Morgan Stanley,,,,
-AXP,American Express Company,,,,
-C,Citigroup Inc.,,,,
-RY,Royal Bank of Canada,,,,
-BX,Blackstone Inc.,,,,
-SPGI,S&P Global Inc.,,,,
-SCHW,The Charles Schwab Corporation,,,,
-PGR,The Progressive Corporation,,,,
-BLK,"BlackRock, Inc.",,,,
-MMC,"Marsh & McLennan Companies, Inc.",,,,
-CB,Chubb Limited,,,,
-TD,The Toronto-Dominion Bank,,,,
-KKR,KKR & Co. Inc.,,,,
-ICE,"Intercontinental Exchange, Inc.",,,,
-MCO,Moody's Corporation,,,,
-CME,CME Group Inc.,,,,
-APO,"Apollo Global Management, Inc.",,,,
-AON,Aon plc,,,,
-PNC,"The PNC Financial Services Group, Inc.",,,,
-PYPL,"PayPal Holdings, Inc.",,,,
-USB,U.S. Bancorp,,,,
-NU,Nu Holdings Ltd.,,,,
-AJG,Arthur J. Gallagher & Co.,,,,
-COIN,"Coinbase Global, Inc.",,,,
-COF,Capital One Financial Corporation,,,,
-IBKR,"Interactive Brokers Group, Inc.",,,,
-TFC,Truist Financial Corporation,,,,
-AFL,Aflac Incorporated,,,,
-MET,"MetLife, Inc.",,,,
-AIG,"American International Group, Inc.",,,,
-TRV,"The Travelers Companies, Inc.",,,,
-BK,The Bank of New York Mellon Corporation,,,,
-ARES,Ares Management Corporation,,,,
-AMP,"Ameriprise Financial, Inc.",,,,
-PRU,"Prudential Financial, Inc.",,,,
-ALL,The Allstate Corporation,,,,
-MSCI,MSCI Inc.,,,,
-ACGL,Arch Capital Group Ltd.,,,,
-NDAQ,"Nasdaq, Inc.",,,,
-DFS,Discover Financial Services,,,,
-HIG,"The Hartford Financial Services Group, Inc.",,,,
-RKT,"Rocket Companies, Inc.",,,,
-WTW,Willis Towers Watson Public Limited Company,,,,
-TROW,"T. Rowe Price Group, Inc.",,,,
-OWL,Blue Owl Capital Inc.,,,,
-BRO,"Brown & Brown, Inc.",,,,
-FITB,Fifth Third Bancorp,,,,
-RJF,"Raymond James Financial, Inc.",,,,
-MTB,M&T Bank Corporation,,,,
-FCNCA,"First Citizens BancShares, Inc.",,,,
-TW,Tradeweb Markets Inc.,,,,
-STT,State Street Corporation,,,,
-LPLA,LPL Financial Holdings Inc.,,,,
-WRB,W. R. Berkley Corporation,,,,
-MKL,Markel Group Inc.,,,,
-HOOD,"Robinhood Markets, Inc.",,,,
-ERIE,Erie Indemnity Company,,,,
-SYF,Synchrony Financial,,,,
-HBAN,Huntington Bancshares Incorporated,,,,
-PFG,"Principal Financial Group, Inc.",,,,
-CINF,Cincinnati Financial Corporation,,,,
-RF,Regions Financial Corporation,,,,
-CBOE,"Cboe Global Markets, Inc.",,,,
-CRBG,"Corebridge Financial, Inc.",,,,
-NTRS,Northern Trust Corporation,,,,
-ALLY,Ally Financial Inc.,,,,
-L,Loews Corporation,,,,
-CFG,"Citizens Financial Group, Inc.",,,,
-FDS,FactSet Research Systems Inc.,,,,
-EG,"Everest Group, Ltd.",,,,
-RYAN,"Ryan Specialty Holdings, Inc.",,,,
-TPG,TPG Inc.,,,,
-CG,The Carlyle Group Inc.,,,,
-RGA,"Reinsurance Group of America, Incorporated",,,,
-KEY,KeyCorp,,,,
-EQH,"Equitable Holdings, Inc.",,,,
-FNF,"Fidelity National Financial, Inc.",,,,
-MORN,"Morningstar, Inc.",,,,
-ARCC,Ares Capital Corporation,,,,
-BAP,Credicorp Ltd.,,,,
-CNA,CNA Financial Corporation,,,,
-BEN,"Franklin Resources, Inc.",,,,
-RNR,RenaissanceRe Holdings Ltd.,,,,
-UWMC,UWM Holdings Corporation,,,,
-JEF,Jefferies Financial Group Inc.,,,,
-AFG,"American Financial Group, Inc.",,,,
-EWBC,"East West Bancorp, Inc.",,,,
-UNM,Unum Group,,,,
-HLI,"Houlihan Lokey, Inc.",,,,
-XP,XP Inc.,,,,
-KNSL,"Kinsale Capital Group, Inc.",,,,
-SEIC,SEI Investments Company,,,,
-AIZ,"Assurant, Inc.",,,,
-SF,Stifel Financial Corp.,,,,
-FHN,First Horizon Corporation,,,,
-ORI,Old Republic International Corporation,,,,
-EVR,Evercore Inc.,,,,
-PRI,"Primerica, Inc.",,,,
-MKTX,MarketAxess Holdings Inc.,,,,
-GL,Globe Life Inc.,,,,
-WBS,Webster Financial Corporation,,,,
-VOYA,"Voya Financial, Inc.",,,,
-CBSH,"Commerce Bancshares, Inc.",,,,
-HLNE,Hamilton Lane Incorporated,,,,
-WAL,Western Alliance Bancorporation,,,,
-SOFI,"SoFi Technologies, Inc.",,,,
-IVZ,Invesco Ltd.,,,,
-CMA,Comerica Incorporated,,,,
-ZION,"Zions Bancorporation, National Association",,,,
-CFR,"Cullen/Frost Bankers, Inc.",,,,
-BPOP,"Popular, Inc.",,,,
-RLI,RLI Corp.,,,,
-CACC,Credit Acceptance Corporation,,,,
-OBDC,Blue Owl Capital Corporation,,,,
-WTFC,Wintrust Financial Corporation,,,,
-MARA,"Marathon Digital Holdings, Inc.",,,,
-PNFP,"Pinnacle Financial Partners, Inc.",,,,
-BXSL,Blackstone Secured Lending Fund,,,,
-ESNT,Essent Group Ltd.,,,,
-SNV,Synovus Financial Corp.,,,,
-AXS,AXIS Capital Holdings Limited,,,,
-PDI,PIMCO Dynamic Income Fund,,,,
-OMF,"OneMain Holdings, Inc.",,,,
-BOKF,BOK Financial Corporation,,,,
-PB,"Prosperity Bancshares, Inc.",,,,
-SSB,SouthState Corporation,,,,
-MTG,MGIC Investment Corporation,,,,
-JXN,Jackson Financial Inc.,,,,
-FSK,FS KKR Capital Corp.,,,,
-SIGI,"Selective Insurance Group, Inc.",,,,
-FAF,First American Financial Corporation,,,,
-JHG,Janus Henderson Group plc,,,,
-ONB,Old National Bancorp,,,,
-LNC,Lincoln National Corporation,,,,
-COOP,Mr. Cooper Group Inc.,,,,
-STEP,StepStone Group LP,,,,
-CADE,Cadence Bank,,,,
-PSLV,Sprott Physical Silver Trust,,,,
-AMG,"Affiliated Managers Group, Inc.",,,,
-FNB,F.N.B. Corporation,,,,
-ACT,"Enact Holdings, Inc.",,,,
-FG,"F&G Annuities & Life, Inc.",,,,
-PFSI,"PennyMac Financial Services, Inc.",,,,
-HOMB,"Home Bancshares, Inc. (Conway, AR)",,,,
-ESGR,Enstar Group Limited,,,,
-RDN,Radian Group Inc.,,,,
-FCFS,"FirstCash Holdings, Inc.",,,,
-OZK,Bank OZK,,,,
-SLM,SLM Corporation,,,,
-FRHC,Freedom Holding Corp.,,,,
-THG,"The Hanover Insurance Group, Inc.",,,,
-MAIN,Main Street Capital Corporation,,,,
-WTM,"White Mountains Insurance Group, Ltd.",,,,
-CRVL,CorVel Corporation,,,,
-PJT,PJT Partners Inc.,,,,
-BGC,"BGC Group, Inc.",,,,
-UBSI,"United Bankshares, Inc.",,,,
-AGO,Assured Guaranty Ltd.,,,,
-GBDC,"Golub Capital BDC, Inc.",,,,
-FFIN,"First Financial Bankshares, Inc.",,,,
-WU,The Western Union Company,,,,
-GBCI,"Glacier Bancorp, Inc.",,,,
-COLB,"Columbia Banking System, Inc.",,,,
-DNB,"Dun & Bradstreet Holdings, Inc.",,,,
-HWC,Hancock Whitney Corporation,,,,
-MC,Moelis & Company,,,,
-UMBF,UMB Financial Corporation,,,,
-AB,AllianceBernstein Holding L.P.,,,,
-KMPR,Kemper Corporation,,,,
-NNI,"Nelnet, Inc.",,,,
-CLSK,"CleanSpark, Inc.",,,,
-CNS,"Cohen & Steers, Inc.",,,,
-VIRT,"Virtu Financial, Inc.",,,,
-IBOC,International Bancshares Corporation,,,,
-HGTY,"Hagerty, Inc.",,,,
-LAZ,"Lazard, Inc.",,,,
-TFSL,TFS Financial Corporation,,,,
-PIPR,Piper Sandler Companies,,,,
-ABCB,Ameris Bancorp,,,,
-HTGC,"Hercules Capital, Inc.",,,,
-VLY,Valley National Bancorp,,,,
-SFBS,"ServisFirst Bancshares, Inc.",,,,
-AX,"Axos Financial, Inc.",,,,
-WD,"Walker & Dunlop, Inc.",,,,
-VCTR,"Victory Capital Holdings, Inc.",,,,
-ASB,Associated Banc-Corp,,,,
-FBP,First BanCorp.,,,,
-DNP,DNP Select Income Fund Inc.,,,,
-CNO,"CNO Financial Group, Inc.",,,,
-FULT,Fulton Financial Corporation,,,,
-UCBI,"United Community Banks, Inc.",,,,
-AUB,Atlantic Union Bankshares Corporation,,,,
-MCY,Mercury General Corporation,,,,
-FIBK,"First Interstate BancSystem, Inc.",,,,
-BANF,BancFirst Corporation,,,,
-BUR,Burford Capital Limited,,,,
-APAM,Artisan Partners Asset Management Inc.,,,,
-TCBI,"Texas Capital Bancshares, Inc.",,,,
-WSFS,WSFS Financial Corporation,,,,
-FHI,"Federated Hermes, Inc.",,,,
-RIOT,"Riot Platforms, Inc.",,,,
-NMIH,"NMI Holdings, Inc.",,,,
-NAD,Nuveen Quality Municipal Income Fund,,,,
-CSQ,Calamos Strategic Total Return Fund,,,,
-BHF,"Brighthouse Financial, Inc.",,,,
-ADX,"Adams Diversified Equity Fund, Inc.",,,,
-IREN,Iris Energy Limited,,,,
-CATY,Cathay General Bancorp,,,,
-NEA,Nuveen AMT-Free Quality Municipal Income Fund,,,,
-NVG,Nuveen AMT-Free Municipal Credit Income Fund,,,,
-GNW,"Genworth Financial, Inc.",,,,
-INTR,"Inter & Co, Inc.",,,,
-FHB,"First Hawaiian, Inc.",,,,
-EXG,Eaton Vance Tax-Managed Global Diversified Equity Income Fund,,,,
-AMK,"AssetMark Financial Holdings, Inc.",,,,
-EBC,"Eastern Bankshares, Inc.",,,,
-CBU,"Community Financial System, Inc.",,,,
-SNEX,StoneX Group Inc.,,,,
-NZF,Nuveen Municipal Credit Income Fund,,,,
-JPC,Nuveen Preferred & Income Opportunities Fund,,,,
-BWIN,"The Baldwin Insurance Group, Inc.",,,,
-CVBF,CVB Financial Corp.,,,,
-PSEC,Prospect Capital Corporation,,,,
-WAFD,"WaFd, Inc.",,,,
-PRK,Park National Corporation,,,,
-BOH,Bank of Hawaii Corporation,,,,
-BFH,"Bread Financial Holdings, Inc.",,,,
-ETY,Eaton Vance Tax-Managed Diversified Equity Income Fund,,,,
-PTY,PIMCO Corporate & Income Opportunity Fund,,,,
-BANC,"Banc of California, Inc.",,,,
-BKU,"BankUnited, Inc.",,,,
-SFNC,Simmons First National Corporation,,,,
-PPBI,"Pacific Premier Bancorp, Inc.",,,,
-UTF,"Cohen & Steers Infrastructure Fund, Inc",,,,
-GSHD,"Goosehead Insurance, Inc",,,,
-UTG,Reaves Utility Income Fund,,,,
-FFBC,First Financial Bancorp.,,,,
-INDB,Independent Bank Corp.,,,,
-PLMR,"Palomar Holdings, Inc.",,,,
-GDV,The Gabelli Dividend & Income Trust,,,,
-SPNT,SiriusPoint Ltd.,,,,
-TOWN,TowneBank,,,,
-UPST,"Upstart Holdings, Inc.",,,,
-MSDL,,,,,
-TSLX,"Sixth Street Specialty Lending, Inc.",,,,
-HTH,Hilltop Holdings Inc.,,,,
-SBCF,Seacoast Banking Corporation of Florida,,,,
-GOF,Guggenheim Strategic Opportunities Fund,,,,
-TBBK,"The Bancorp, Inc.",,,,
-USA,Liberty All-Star Equity Fund,,,,
-FRME,First Merchants Corporation,,,,
-FIHL,Fidelis Insurance Holdings Limited,,,,
-PFS,"Provident Financial Services, Inc.",,,,
-HTLF,"Heartland Financial USA, Inc.",,,,
-IBTX,"Independent Bank Group, Inc.",,,,
-PAX,Patria Investments Limited,,,,
-MBIN,Merchants Bancorp,,,,
-TFIN,"Triumph Financial, Inc.",,,,
-OBDE,Blue Owl Capital Corporation III,,,,
-GCMG,GCM Grosvenor Inc.,,,,
-NWLI,"National Western Life Group, Inc.",,,,
-CLM,"Cornerstone Strategic Value Fund, Inc.",,,,
-FBK,FB Financial Corporation,,,,
-ECAT,BlackRock ESG Capital Allocation Term Trust,,,,
-TRMK,Trustmark Corporation,,,,
-NBTB,NBT Bancorp Inc.,,,,
-WULF,TeraWulf Inc.,,,,
-NUV,"Nuveen Municipal Value Fund, Inc.",,,,
-BCAT,BlackRock Capital Allocation Term Trust,,,,
-KYN,"Kayne Anderson Energy Infrastructure Fund, Inc.",,,,
-OFG,OFG Bancorp,,,,
-EVT,Eaton Vance Tax-Advantaged Dividend Income Fund,,,,
-HG,"Hamilton Insurance Group, Ltd.",,,,
-GSBD,"Goldman Sachs BDC, Inc.",,,,
-STC,Stewart Information Services Corporation,,,,
-ENVA,"Enova International, Inc.",,,,
-RNST,Renasant Corporation,,,,
-NAC,Nuveen California Quality Municipal Income Fund,,,,
-BANR,Banner Corporation,,,,
-BIGZ,BlackRock Innovation and Growth Term Trust,,,,
-RVT,"Royce Small-Cap Trust, Inc.",,,,
-WSBC,"WesBanco, Inc.",,,,
-BMEZ,BlackRock Health Sciences Term Trust,,,,
-VRTS,"Virtus Investment Partners, Inc.",,,,
-NAVI,Navient Corporation,,,,
-GAB,The Gabelli Equity Trust Inc.,,,,
-NTB,The Bank of N.T. Butterfield & Son Limited,,,,
-ETV,Eaton Vance Tax-Managed Buy-Write Opportunities Fund,,,,
-RQI,"Cohen & Steers Quality Income Realty Fund, Inc.",,,,
-CHCO,City Holding Company,,,,
-BSTZ,BlackRock Science and Technology Term Trust,,,,
-LKFN,Lakeland Financial Corporation,,,,
-BDJ,BlackRock Enhanced Equity Dividend Trust,,,,
-CLBK,"Columbia Financial, Inc.",,,,
-CUBI,"Customers Bancorp, Inc.",,,,
-OCSL,Oaktree Specialty Lending Corporation,,,,
-PDO,Pimco Dynamic Income Opportunities Fund,,,,
-LOB,"Live Oak Bancshares, Inc.",,,,
-WT,"WisdomTree, Inc.",,,,
-PWP,Perella Weinberg Partners,,,,
-EFSC,Enterprise Financial Services Corp,,,,
-OXLC,Oxford Lane Capital Corp.,,,,
-HUT,Hut 8 Corp.,,,,
-NBHC,National Bank Holdings Corporation,,,,
-NWBI,"Northwest Bancshares, Inc.",,,,
-AGM-A,Federal Agricultural Mortgage Corporation,,,,
-CASH,"Pathward Financial, Inc.",,,,
-SYBT,"Stock Yards Bancorp, Inc.",,,,
-ETG,Eaton Vance Tax-Advantaged Global Dividend Income Fund,,,,
-SKWD,"Skyward Specialty Insurance Group, Inc.",,,,
-BXMX,Nuveen S&P 500 Buy-Write Income Fund,,,,
-FCF,First Commonwealth Financial Corporation,,,,
-STEW,"SRH Total Return Fund, Inc.",,,,
-HYT,"BlackRock Corporate High Yield Fund, Inc.",,,,
-MRX,Marex Group plc,,,,
-BTT,Blackrock Municipal 2030 Target Term Trust,,,,
-BUSE,First Busey Corporation,,,,
-NMFC,New Mountain Finance Corporation,,,,
-DSL,DoubleLine Income Solutions Fund,,,,
-BST,BlackRock Science and Technology Trust,,,,
-FBNC,First Bancorp,,,,
-HMN,Horace Mann Educators Corporation,,,,
-SRCE,1st Source Corporation,,,,
-WABC,Westamerica Bancorporation,,,,
-TCBK,TriCo Bancshares,,,,
-HOPE,"Hope Bancorp, Inc.",,,,
-STBA,"S&T Bancorp, Inc.",,,,
-CET,Central Securities Corporation,,,,
-QQQX,Nuveen Nasdaq 100 Dynamic Overwrite Fund,,,,
-CSWC,Capital Southwest Corporation,,,,
-TRUP,"Trupanion, Inc.",,,,
-NIC,"Nicolet Bankshares, Inc.",,,,
-STEL,"Stellar Bancorp, Inc.",,,,
-NMZ,Nuveen Municipal High Income Opportunity Fund,,,,
-JFR,Nuveen Floating Rate Income Fund,,,,
-GAM,"General American Investors Company, Inc.",,,,
-NFJ,"Virtus Dividend, Interest & Premium Strategy Fund",,,,
-LMND,"Lemonade, Inc.",,,,
-EOS,Eaton Vance Enhanced Equity Income Fund II,,,,
-KBDC,"Kayne Anderson BDC, Inc.",,,,
-VBTX,"Veritex Holdings, Inc.",,,,
-EVV,Eaton Vance Limited Duration Income Fund,,,,
-BLX,"Banco Latinoamericano de Comercio Exterior, S. A.",,,,
-SAFT,"Safety Insurance Group, Inc.",,,,
-FPF,First Trust Intermediate Duration Preferred & Income Fund,,,,
-PTA,Cohen & Steers Tax-Advantaged Preferred Securities and Income Fund,,,,
-SASR,"Sandy Spring Bancorp, Inc.",,,,
-EIG,"Employers Holdings, Inc.",,,,
-BCSF,"Bain Capital Specialty Finance, Inc.",,,,
-BBDC,"Barings BDC, Inc.",,,,
-BY,"Byline Bancorp, Inc.",,,,
-PEBO,Peoples Bancorp Inc.,,,,
-MUC,"BlackRock MuniHoldings California Quality Fund, Inc.",,,,
-GABC,"German American Bancorp, Inc.",,,,
-PDX,PIMCO Dynamic Income Strategy Fund,,,,
-RBCAA,"Republic Bancorp, Inc.",,,,
-BBN,BlackRock Taxable Municipal Bond Trust,,,,
-MFIC,MidCap Financial Investment Corporation,,,,
-PFBC,Preferred Bank,,,,
-BTZ,BlackRock Credit Allocation Income Trust,,,,
-RNP,"Cohen & Steers REIT and Preferred Income Fund, Inc.",,,,
-CVII,Churchill Capital Corp VII,,,,
-ECPG,"Encore Capital Group, Inc.",,,,
-QCRH,"QCR Holdings, Inc.",,,,
-NCDL,Nuveen Churchill Direct Lending Corp.,,,,
-BHLB,"Berkshire Hills Bancorp, Inc.",,,,
-OBK,"Origin Bancorp, Inc.",,,,
-NRK,Nuveen New York AMT-Free Quality Municipal Income Fund,,,,
-HCI,"HCI Group, Inc.",,,,
-LC,LendingClub Corporation,,,,
-PX,"P10, Inc.",,,,
-TCPC,BlackRock TCP Capital Corp.,,,,
-CGBD,"Carlyle Secured Lending, Inc.",,,,
-BRDG,Bridge Investment Group Holdings Inc.,,,,
-ETW,Eaton Vance Tax-Managed Global Buy-Write Opportunities Fund,,,,
-FSUN,FirstSun Capital Bancorp,,,,
-OCFC,OceanFirst Financial Corp.,,,,
-AWF,AllianceBernstein Global High Income Fund,,,,
-AOD,Abrdn Total Dynamic Dividend Fund,,,,
-CHI,Calamos Convertible Opportunities and Income Fund,,,,
-CII,"BlackRock Enhanced Capital and Income Fund, Inc.",,,,
-HQH,Abrdn Healthcare Investors,,,,
-GHLD,Guild Holdings Company,,,,
-MQY,"BlackRock MuniYield Quality Fund, Inc.",,,,
-MUI,"BlackRock Municipal Income Fund, Inc.",,,,
-SLRC,SLR Investment Corp.,,,,
-CRF,"Cornerstone Total Return Fund, Inc.",,,,
-CHY,Calamos Convertible and High Income Fund,,,,
-ECC,Eagle Point Credit Company Inc.,,,,
-BSIG,BrightSphere Investment Group Inc.,,,,
-THQ,Abrdn Healthcare Opportunities Fund,,,,
-AMSF,"AMERISAFE, Inc.",,,,
-BFC,Bank First Corporation,,,,
-SBSI,"Southside Bancshares, Inc.",,,,
-AMAL,Amalgamated Financial Corp.,,,,
-EOI,Eaton Vance Enhanced Equity Income Fund,,,,
-FBMS,"The First Bancshares, Inc.",,,,
-BOW,Bowhead Specialty Holdings Inc.,,,,
-BCX,Blackrock Resources & Commodities Strategy Trust,,,,
-PFLT,PennantPark Floating Rate Capital Ltd.,,,,
-ROOT,"Root, Inc.",,,,
-FMBH,"First Mid Bancshares, Inc.",,,,
-PRAA,"PRA Group, Inc.",,,,
-DCOM,"Dime Community Bancshares, Inc.",,,,
-JQC,Nuveen Credit Strategies Income Fund,,,,
-DLY,DoubleLine Yield Opportunities Fund,,,,
-CTBI,"Community Trust Bancorp, Inc.",,,,
-EIM,Eaton Vance Municipal Bond Fund,,,,
-AMTB,Amerant Bancorp Inc.,,,,
-AMRK,"A-Mark Precious Metals, Inc.",,,,
-BRKL,"Brookline Bancorp, Inc.",,,,
-AIO,Virtus Artificial Intelligence & Technology Opportunities Fund,,,,
-MYI,"BlackRock MuniYield Quality Fund III, Inc.",,,,
-TRIN,Trinity Capital Inc.,,,,
-WRLD,World Acceptance Corporation,,,,
-HTD,John Hancock Tax-Advantaged Dividend Income Fund,,,,
-PCN,PIMCO Corporate & Income Strategy Fund,,,,
-CFFN,"Capitol Federal Financial, Inc.",,,,
-BHRB,Burke & Herbert Financial Services Corp.,,,,
-PFC,Premier Financial Corp.,,,,
-CCAP,"Crescent Capital BDC, Inc.",,,,
-RA,Brookfield Real Assets Income Fund Inc.,,,,
-CNOB,"ConnectOne Bancorp, Inc.",,,,
-FFC,Flaherty & Crumrine Preferred Securities Income Fund Inc.,,,,
-IGR,CBRE Global Real Estate Income Fund,,,,
-FMCB,Farmers & Merchants Bancorp,,,,
-AC,"Associated Capital Group, Inc.",,,,
-NXP,Nuveen Select Tax-Free Income Portfolio,,,,
-CFB,"CrossFirst Bankshares, Inc.",,,,
-TMP,Tompkins Financial Corporation,,,,
-ABL,"Abacus Life, Inc.",,,,
-AACT,Ares Acquisition Corporation II,,,,
-BOE,BlackRock Enhanced Global Dividend Trust,,,,
-IFN,"The India Fund, Inc.",,,,
-OSBC,"Old Second Bancorp, Inc.",,,,
-FCBC,"First Community Bankshares, Inc.",,,,
-LPRO,Open Lending Corporation,,,,
-CION,CION Investment Corporation,,,,
-UVSP,Univest Financial Corporation,,,,
-MCBS,"MetroCity Bankshares, Inc.",,,,
-IGIC,International General Insurance Holdings Ltd.,,,,
-NIE,Virtus Equity & Convertible Income Fund,,,,
-NDMO,Nuveen Dynamic Municipal Opportunities Fund,,,,
-NBBK,"NB Bancorp, Inc.",,,,
-HBT,"HBT Financial, Inc.",,,,
-MBWM,Mercantile Bank Corporation,,,,
-MHD,"BlackRock MuniHoldings Fund, Inc.",,,,
-GSBC,"Great Southern Bancorp, Inc.",,,,
-CEM,ClearBridge MLP and Midstream Fund Inc,,,,
-FDUS,Fidus Investment Corporation,,,,
-FBAK,First National Bank Alaska,,,,
-PFN,PIMCO Income Strategy Fund II,,,,
-PRA,ProAssurance Corporation,,,,
-VEL,"Velocity Financial, Inc.",,,,
-CCD,Calamos Dynamic Convertible and Income Fund,,,,
-HFWA,Heritage Financial Corporation,,,,
-CCB,Coastal Financial Corporation,,,,
-MUJ,"BlackRock MuniHoldings New Jersey Quality Fund, Inc.",,,,
-NKX,Nuveen California AMT-Free Quality Municipal Income Fund,,,,
-PEO,"Adams Natural Resources Fund, Inc.",,,,
-NMCO,Nuveen Municipal Credit Opportunities Fund,,,,
-TIPT,Tiptree Inc.,,,,
-ETJ,Eaton Vance Risk-Managed Diversified Equity Income Fund,,,,
-OTCM,OTC Markets Group Inc.,,,,
-VINP,Vinci Partners Investments Ltd.,,,,
-IIM,Invesco Value Municipal Income Trust,,,,
-LDP,"Cohen & Steers Limited Duration Preferred and Income Fund, Inc.",,,,
-PDT,John Hancock Premium Dividend Fund,,,,
-FMBL,Farmers & Merchants Bank of Long Beach,,,,
-BHK,BlackRock Core Bond Trust,,,,
-PML,PIMCO Municipal Income Fund II,,,,
-CPF,Central Pacific Financial Corp.,,,,
-MMU,Western Asset Managed Municipals Fund Inc.,,,,
-BGY,BlackRock Enhanced International Dividend Trust,,,,
-BME,BlackRock Health Sciences Trust,,,,
-BTO,John Hancock Financial Opportunities Fund,,,,
-EZPW,"EZCORP, Inc.",,,,
-GAMI,"GAMCO Investors, Inc.",,,,
-STK,Columbia Seligman Premium Technology Growth Fund,,,,
-AMBC,"Ambac Financial Group, Inc.",,,,
-EGBN,"Eagle Bancorp, Inc.",,,,
-TREE,"LendingTree, Inc.",,,,
-BIT,BlackRock Multi-Sector Income Trust,,,,
-VKQ,Invesco Municipal Trust,,,,
-EMD,Western Asset Emerging Markets Debt Fund Inc.,,,,
-ORRF,"Orrstown Financial Services, Inc.",,,,
-IBCP,Independent Bank Corporation,,,,
-CATC,Cambridge Bancorp,,,,
-HBNC,"Horizon Bancorp, Inc.",,,,
-BFST,"Business First Bancshares, Inc.",,,,
-BGB,Blackstone Strategic Credit 2027 Term Fund,,,,
-GCBC,"Greene County Bancorp, Inc.",,,,
-TRST,TrustCo Bank Corp NY,,,,
-RILY,"B. Riley Financial, Inc.",,,,
-EMO,ClearBridge Energy Midstream Opportunity Fund Inc,,,,
-EQBK,"Equity Bancshares, Inc.",,,,
-UFCS,"United Fire Group, Inc.",,,,
-PSBD,Palmer Square Capital BDC Inc.,,,,
-WIW,Western Asset Inflation-Linked Opportunities & Income Fund,,,,
-UVE,"Universal Insurance Holdings, Inc.",,,,
-FTHY,First Trust High Yield Opportunities 2027 Term Fund,,,,
-GAIN,Gladstone Investment Corporation,,,,
-GLAD,Gladstone Capital Corporation,,,,
-HTBK,Heritage Commerce Corp,,,,
-BLE,BlackRock Municipal Income Trust II,,,,
-HTBI,"HomeTrust Bancshares, Inc.",,,,
-DIAX,Nuveen Dow 30 Dynamic Overwrite Fund,,,,
-SEZL,Sezzle Inc.,,,,
-OPY,Oppenheimer Holdings Inc.,,,,
-HPS,John Hancock Preferred Income Fund III,,,,
-DSU,"BlackRock Debt Strategies Fund, Inc.",,,,
-NXJ,Nuveen New Jersey Quality Municipal Income Fund,,,,
-ACIC,American Coastal Insurance Corporation,,,,
-FSBC,Five Star Bancorp,,,,
-BLW,BlackRock Limited Duration Income Trust,,,,
-GDOT,Green Dot Corporation,,,,
-MCBC,Macatawa Bank Corporation,,,,
-SMBC,"Southern Missouri Bancorp, Inc.",,,,
-PNNT,PennantPark Investment Corporation,,,,
-THW,Abrdn World Healthcare Fund,,,,
-BUI,"BlackRock Utilities, Infrastructure & Power Opportunities Trust",,,,
-MYD,"BlackRock MuniYield Fund, Inc.",,,,
-GHY,"PGIM Global High Yield Fund, Inc",,,,
-HAFC,Hanmi Financial Corporation,,,,
-FFMR,First Farmers Financial Corporation,,,,
-HONE,"HarborOne Bancorp, Inc.",,,,
-NBN,Northeast Bank,,,,
-MSBI,"Midland States Bancorp, Inc.",,,,
-CAC,Camden National Corporation,,,,
-MCB,Metropolitan Bank Holding Corp.,,,,
-CCBG,"Capital City Bank Group, Inc.",,,,
-FRA,"BlackRock Floating Rate Income Strategies Fund, Inc.",,,,
-FMNB,Farmers National Banc Corp.,,,,
-MVF,"BlackRock MuniVest Fund, Inc.",,,,
-RWAY,Runway Growth Finance Corp.,,,,
-RMT,"Royce Micro-Cap Trust, Inc.",,,,
-MMD,MainStay MacKay DefinedTerm Municipal Opportunities Fund,,,,
-NML,Neuberger Berman Energy Infrastructure and Income Fund Inc.,,,,
-NQP,Nuveen Pennsylvania Quality Municipal Income Fund,,,,
-NBB,Nuveen Taxable Municipal Income Fund,,,,
-GUT,The Gabelli Utility Trust,,,,
-WASH,"Washington Trust Bancorp, Inc.",,,,
-CHW,Calamos Global Dynamic Income Fund,,,,
-ATLC,Atlanticus Holdings Corporation,,,,
-HPI,John Hancock Preferred Income Fund,,,,
-SPFI,"South Plains Financial, Inc.",,,,
-BFK,BlackRock Municipal Income Trust,,,,
-JPI,Nuveen Preferred and Income Term Fund,,,,
-MUA,"BlackRock MuniAssets Fund, Inc.",,,,
-ANSC,Agriculture & Natural Solutions Acquisition Corporation,,,,
-GLRE,"Greenlight Capital Re, Ltd.",,,,
-ISD,"PGIM High Yield Bond Fund, Inc.",,,,
-HRZN,Horizon Technology Finance Corporation,,,,
-THFF,First Financial Corporation,,,,
-VALU,"Value Line, Inc.",,,,
-AROW,Arrow Financial Corporation,,,,
-GBLI,"Global Indemnity Group, LLC",,,,
-ETO,Eaton Vance Tax-Advantaged Global Dividend Opportunities Fund,,,,
-ETB,Eaton Vance Tax-Managed Buy-Write Income Fund,,,,
-CCNE,CNB Financial Corporation,,,,
-DGICA,Donegal Group Inc.,,,,
-NFBK,"Northfield Bancorp, Inc. (Staten Island, NY)",,,,
-HFRO,Highland Funds I - Highland Opportunities and Income Fund,,,,
-CRD-A,Crawford & Company,,,,
-AVK,Advent Convertible and Income Fund,,,,
-EVN,Eaton Vance Municipal Income Trust,,,,
-IGD,Voya Global Equity Dividend and Premium Opportunity Fund,,,,
-FSD,First Trust High Income Long/Short Fund,,,,
-SMBK,"SmartFinancial, Inc.",,,,
-EAD,Wells Fargo Advantage Funds - Allspring Income Opportunities Fund,,,,
-NETD,Nabors Energy Transition Corp. II,,,,
-BHB,Bar Harbor Bankshares,,,,
-MYN,"BlackRock MuniYield New York Quality Fund, Inc.",,,,
-DHIL,"Diamond Hill Investment Group, Inc.",,,,
-FFA,First Trust Enhanced Equity Income Fund,,,,
-VKI,Invesco Advantage Municipal Income Trust II,,,,
-DFP,Flaherty & Crumrine Dynamic Preferred and Income Fund Inc.,,,,
-PGC,Peapack-Gladstone Financial Corporation,,,,
-HQL,Abrdn Life Sciences Investors,,,,
-XFLT,XAI Octagon Floating Rate & Alternative Income Trust,,,,
-ESQ,"Esquire Financial Holdings, Inc.",,,,
-HIFS,Hingham Institution for Savings,,,,
-EFR,Eaton Vance Senior Floating-Rate Trust,,,,
-HIPO,Hippo Holdings Inc.,,,,
-LEO,"BNY Mellon Strategic Municipals, Inc.",,,,
-TYG,Tortoise Energy Infrastructure Corporation,,,,
-KRNY,Kearny Financial Corp.,,,,
-SDHY,PGIM Short Duration High Yield Opportunities Fund,,,,
-ALRS,Alerus Financial Corporation,,,,
-SHBI,"Shore Bancshares, Inc.",,,,
-DPG,Duff & Phelps Utility and Infrastructure Fund Inc.,,,,
-GBAB,Guggenheim Taxable Municipal Bond & Investment Grade Debt Trust,,,,
-MCI,Barings Corporate Investors,,,,
-KTF,DWS Municipal Income Trust,,,,
-FFIC,Flushing Financial Corporation,,,,
-KIO,KKR Income Opportunities Fund,,,,
-HPF,John Hancock Preferred Income Fund II,,,,
-CCIX,Churchill Capital Corp IX,,,,
-BGR,BlackRock Energy and Resources Trust,,,,
-RRAC,Rigel Resource Acquisition Corp.,,,,
-MPB,"Mid Penn Bancorp, Inc.",,,,
-ASA,ASA Gold and Precious Metals Limited,,,,
-BFZ,BlackRock California Municipal Income Trust,,,,
-SOR,"Source Capital, Inc.",,,,
-EFT,Eaton Vance Floating-Rate Income Trust,,,,
-GNTY,"Guaranty Bancshares, Inc.",,,,
-NAN,Nuveen New York Quality Municipal Income Fund,,,,
-ARDC,"Ares Dynamic Credit Allocation Fund, Inc.",,,,
-ACP,Abrdn Income Credit Strategies Fund,,,,
-RFMZ,"RiverNorth Flexible Municipal Income Fund II, Inc.",,,,
-MOFG,"MidWestOne Financial Group, Inc.",,,,
-RBB,RBB Bancorp,,,,
-CWBC,Community West Bancshares,,,,
-GHI,Greystone Housing Impact Investors LP,,,,
-JRI,Nuveen Real Asset Income and Growth Fund,,,,
-CARE,"Carter Bankshares, Inc.",,,,
-KCLI,Kansas City Life Insurance Company,,,,
-ITIC,Investors Title Company,,,,
-DBIN,"Dacotah Banks, Inc.",,,,
-FOF,"Cohen & Steers Closed-End Opportunity Fund, Inc.",,,,
-SCM,Stellus Capital Investment Corporation,,,,
-MIY,"BlackRock MuniYield Michigan Quality Fund, Inc.",,,,
-IPXX,Inflection Point Acquisition Corp. II,,,,
-RRBI,"Red River Bancshares, Inc.",,,,
-BSRR,Sierra Bancorp,,,,
-MHN,"BlackRock MuniHoldings New York Quality Fund, Inc.",,,,
-PFL,PIMCO Income Strategy Fund,,,,
-ASG,"Liberty All-Star Growth Fund, Inc.",,,,
-AFB,"AllianceBernstein National Municipal Income Fund, Inc.",,,,
-PFIS,Peoples Financial Services Corp.,,,,
-NBH,Neuberger Berman Municipal Fund Inc.,,,,
-FRBA,First Bank,,,,
-BWB,"Bridgewater Bancshares, Inc.",,,,
-NRIM,"Northrim BanCorp, Inc.",,,,
-PMO,Putnam Municipal Opportunities Trust,,,,
-TWN,"The Taiwan Fund, Inc.",,,,
-HBCP,"Home Bancorp, Inc.",,,,
-NEWT,"NewtekOne, Inc.",,,,
-SAR,Saratoga Investment Corp.,,,,
-HYAC,Haymaker Acquisition Corp. 4,,,,
-FINS,Angel Oak Financial Strategies Income Term Trust,,,,
-PMTS,CPI Card Group Inc.,,,,
-NODK,"NI Holdings, Inc.",,,,
-FMAO,"Farmers & Merchants Bancorp, Inc.",,,,
-RMM,Rivernorth Managed Duration Municipal Income Fund Inc.,,,,
-TPVG,TriplePoint Venture Growth BDC Corp.,,,,
-RFI,"Cohen & Steers Total Return Realty Fund, Inc.",,,,
-JWSM,Jaws Mustang Acquisition Corporation,,,,
-BRW,Saba Capital Income & Opportunities Fund,,,,
-CPZ,Calamos Long/Short Equity & Dynamic Income Term Trust,,,,
-FBIZ,"First Business Financial Services, Inc.",,,,
-ACNB,ACNB Corporation,,,,
-JGH,Nuveen Global High Income Fund,,,,
-BYM,BlackRock Municipal Income Quality Trust,,,,
-FISI,"Financial Institutions, Inc.",,,,
-SPXX,Nuveen S&P 500 Dynamic Overwrite Fund,,,,
-BGH,Barings Global Short Duration High Yield Fund,,,,
-EBTC,"Enterprise Bancorp, Inc.",,,,
-FNBT,"FineMark Holdings, Inc.",,,,
-WHF,"WhiteHorse Finance, Inc.",,,,
-SCZC,West Coast Community Bancorp,,,,
-BGT,BlackRock Floating Rate Income Trust,,,,
-WTBA,"West Bancorporation, Inc.",,,,
-TCBX,"Third Coast Bancshares, Inc.",,,,
-DSM,"BNY Mellon Strategic Municipal Bond Fund, Inc.",,,,
-RCS,"PIMCO Strategic Income Fund, Inc.",,,,
-NCA,Nuveen California Municipal Value Fund,,,,
-BSVN,Bank7 Corp.,,,,
-UNTY,"Unity Bancorp, Inc.",,,,
-PMM,Putnam Managed Municipal Income Trust,,,,
-JRVR,"James River Group Holdings, Ltd.",,,,
-FFBB,FFB Bancorp,,,,
-FFWM,First Foundation Inc.,,,,
-CTR,ClearBridge MLP and Midstream Total Return Fund Inc.,,,,
-RM,Regional Management Corp.,,,,
-CBNK,"Capital Bancorp, Inc.",,,,
-OBT,"Orange County Bancorp, Inc.",,,,
-FSBW,"FS Bancorp, Inc.",,,,
-PBFS,"Pioneer Bancorp, Inc.",,,,
-MBI,MBIA Inc.,,,,
-AMBZ,American Business Bank,,,,
-AEF,Abrdn Emerging Markets Equity Income Fund Inc,,,,
-FNLC,"The First Bancorp, Inc.",,,,
-SBT,"Sterling Bancorp, Inc. (Southfield, MI)",,,,
-IIF,"Morgan Stanley India Investment Fund, Inc.",,,,
-MCR,MFS Charter Income Trust,,,,
-SCD,LMP Capital and Income Fund Inc.,,,,
-FCT,First Trust Senior Floating Rate Income Fund II,,,,
-BMRC,Bank of Marin Bancorp,,,,
-CZNC,Citizens & Northern Corporation,,,,
-TRTL,TortoiseEcofin Acquisition Corp. III,,,,
-DBL,DoubleLine Opportunistic Credit Fund,,,,
-RIV,"RiverNorth Opportunities Fund, Inc.",,,,
-FRST,Primis Financial Corp.,,,,
-HYI,Western Asset High Yield Defined Opportunity Fund Inc.,,,,
-PMX,PIMCO Municipal Income Fund III,,,,
-EOT,Eaton Vance National Municipal Opportunities Trust,,,,
-LEGT,Legato Merger Corp. III,,,,
-SLAM,Slam Corp.,,,,
-FTF,Franklin Limited Duration Income Trust,,,,
-PLAO,Patria Latin American Opportunity Acquisition Corp.,,,,
-BNY,BlackRock New York Municipal Income Trust,,,,
-VPV,Invesco Pennsylvania Value Municipal Income Trust,,,,
-WSBF,"Waterstone Financial, Inc.",,,,
-ERC,Allspring Multi-Sector Income Fund,,,,
-NECB,"Northeast Community Bancorp, Inc.",,,,
-TEI,Templeton Emerging Markets Income Fund,,,,
-BKT,"BlackRock Income Trust, Inc.",,,,
-BCAL,Southern California Bancorp,,,,
-FDBC,"Fidelity D & D Bancorp, Inc.",,,,
-SVII,Spring Valley Acquisition Corp. II,,,,
-USCB,"USCB Financial Holdings, Inc.",,,,
-JMSB,"John Marshall Bancorp, Inc.",,,,
-NUW,Nuveen AMT-Free Municipal Value Fund,,,,
-NASB,"NASB Financial, Inc.",,,,
-AGD,Abrdn Global Dynamic Dividend Fund,,,,
-RENE,Cartesian Growth Corporation II,,,,
-JCE,Nuveen Core Equity Alpha Fund,,,,
-PMF,PIMCO Municipal Income Fund,,,,
-INBK,First Internet Bancorp,,,,
-MXF,"The Mexico Fund, Inc.",,,,
-SSBK,"Southern States Bancshares, Inc.",,,,
-PSF,"Cohen & Steers Select Preferred and Income Fund, Inc.",,,,
-GOCO,"GoHealth, Inc.",,,,
-EVM,Eaton Vance California Municipal Bond Fund,,,,
-DSBX,Dogwood State Bank,,,,
-SFST,"Southern First Bancshares, Inc.",,,,
-LNKB,"LINKBANCORP, Inc.",,,,
-MVBF,MVB Financial Corp.,,,,
-HLXB,Helix Acquisition Corp. II,,,,
-CIVB,"Civista Bancshares, Inc.",,,,
-CVLY,"Codorus Valley Bancorp, Inc.",,,,
-GLO,Clough Global Opportunities Fund,,,,
-AFT,Apollo Senior Floating Rate Fund Inc.,,,,
-CNDA,Concord Acquisition Corp II,,,,
-MVT,"BlackRock MuniVest Fund II, Inc.",,,,
-MQT,"BlackRock MuniYield Quality Fund II, Inc.",,,,
-FLIC,The First of Long Island Corporation,,,,
-BCML,BayCom Corp,,,,
-ALPIB,Alpine Banks of Colorado,,,,
-FUND,"Sprott Focus Trust, Inc.",,,,
-MUE,"BlackRock MuniHoldings Quality Fund II, Inc.",,,,
-PHT,"Pioneer High Income Fund, Inc.",,,,
-MFM,MFS Municipal Income Trust,,,,
-NTG,"Tortoise Midstream Energy Fund, Inc.",,,,
-PCB,PCB Bancorp,,,,
-JRS,Nuveen Real Estate Income Fund,,,,
-LGI,"Lazard Global Total Return and Income Fund, Inc.",,,,
-SABA,Saba Capital Income & Opportunities Fund II,,,,
-VTN,Invesco Trust for Investment Grade New York Municipals,,,,
-ACV,Virtus Diversified Income & Convertible Fund,,,,
-CLBR,Colombier Acquisition Corp. II,,,,
-CHMG,Chemung Financial Corporation,,,,
-COFS,"ChoiceOne Financial Services, Inc.",,,,
-BLFY,Blue Foundry Bancorp,,,,
-AIF,Apollo Tactical Income Fund Inc.,,,,
-EOD,Wells Fargo Advantage Funds - Allspring Global Dividend Opportunity Fund,,,,
-CBAN,"Colony Bankcorp, Inc.",,,,
-JOF,"Japan Smaller Capitalization Fund, Inc.",,,,
-GBFH,GBank Financial Holdings Inc.,,,,
-TSBK,"Timberland Bancorp, Inc.",,,,
-BPRN,"Princeton Bancorp, Inc.",,,,
-HMST,"HomeStreet, Inc.",,,,
-NHS,Neuberger Berman High Yield Strategies Fund Inc.,,,,
-PLBC,Plumas Bancorp,,,,
-SEDA,SDCL EDGE Acquisition Corporation,,,,
-HIE,Miller/Howard High Income Equity Fund,,,,
-EIC,Eagle Point Income Company Inc.,,,,
-MHI,"Pioneer Municipal High Income Fund, Inc.",,,,
-PDLB,"Ponce Financial Group, Inc.",,,,
-TDF,"Templeton Dragon Fund, Inc.",,,,
-BKN,BlackRock Investment Quality Municipal Trust Inc.,,,,
-CPSS,"Consumer Portfolio Services, Inc.",,,,
-SWKH,SWK Holdings Corporation,,,,
-KVAC,Keen Vision Acquisition Corporation,,,,
-CAF,"Morgan Stanley China A Share Fund, Inc.",,,,
-IVCB,Investcorp Europe Acquisition Corp I,,,,
-NPV,Nuveen Virginia Quality Municipal Income Fund,,,,
-ETX,Eaton Vance Municipal Income 2028 Term Trust,,,,
-GHIX,"Gores Holdings IX, Inc.",,,,
-CZFS,"Citizens Financial Services, Inc.",,,,
-OVLY,Oak Valley Bancorp,,,,
-PBAM,"Private Bancorp of America, Inc.",,,,
-OPP,"RiverNorth/DoubleLine Strategic Opportunity Fund, Inc.",,,,
-NWFL,Norwood Financial Corp.,,,,
-MAV,"Pioneer Municipal High Income Advantage Fund, Inc.",,,,
-HRTG,"Heritage Insurance Holdings, Inc.",,,,
-FFNW,"First Financial Northwest, Inc.",,,,
-DMB,"BNY Mellon Municipal Bond Infrastructure Fund, Inc.",,,,
-EMF,Templeton Emerging Markets Fund,,,,
-BWFG,"Bankwell Financial Group, Inc.",,,,
-MFIN,Medallion Financial Corp.,,,,
-CSHX,Cashmere Valley Bank,,,,
-PKBK,"Parke Bancorp, Inc.",,,,
-LCNB,LCNB Corp.,,,,
-SNFCA,Security National Financial Corporation,,,,
-PCK,PIMCO California Municipal Income Fund II,,,,
-FVCB,"FVCBankcorp, Inc.",,,,
-MBCN,Middlefield Banc Corp.,,,,
-WIA,Western Asset Inflation-Linked Income Fund,,,,
-IGI,Western Asset Investment Grade Defined Opportunity Trust Inc.,,,,
-PEGR,Project Energy Reimagined Acquisition Corp.,,,,
-PVBC,"Provident Bancorp, Inc.",,,,
-IVCA,Investcorp India Acquisition Corp,,,,
-BSL,Blackstone Senior Floating Rate 2027 Term Fund,,,,
-PTMN,Portman Ridge Finance Corporation,,,,
-ONIT,Onity Group Inc.,,,,
-SBXC,SilverBox Corp III,,,,
-GDO,Western Asset Global Corporate Defined Opportunity Fund Inc.,,,,
-CALB,California BanCorp,,,,
-TRIS,Tristar Acquisition I Corp.,,,,
-VBF,Invesco Bond Fund,,,,
-ATLO,Ames National Corporation,,,,
-NKSH,"National Bankshares, Inc.",,,,
-ESSA,"ESSA Bancorp, Inc.",,,,
-PPYA,Papaya Growth Opportunity Corp. I,,,,
-BFCC,BankFirst Capital Corporation,,,,
-PCQ,PIMCO California Municipal Income Fund,,,,
-ENX,Eaton Vance New York Municipal Bond Fund,,,,
-VABK,Virginia National Bankshares Corporation,,,,
-BCBP,"BCB Bancorp, Inc.",,,,
-MBLU,"Morris State Bancshares, Inc.",,,,
-HLAN,Heartland BancCorp,,,,
-HCVI,Hennessy Capital Investment Corp. VI,,,,
-INSI,Insight Select Income Fund,,,,
-COSO,"CoastalSouth Bancshares, Inc.",,,,
-HGLB,Highland Global Allocation Fund,,,,
-MPV,Barings Participation Investors,,,,
-FT,Franklin Universal Trust,,,,
-HYB,The New America High Income Fund Inc.,,,,
-UBAB,"United Bancorporation of Alabama, Inc.",,,,
-VERY,"Vericity, Inc.",,,,
-SPKL,Spark I Acquisition Corporation,,,,
-SKGR,SK Growth Opportunities Corporation,,,,
-BRKH,BurTech Acquisition Corp.,,,,
-LCW,Learn CW Investment Corporation,,,,
-CBH,Virtus Convertible & Income 2024 Target Term Fund,,,,
-MCAA,Mountain & Co. I Acquisition Corp.,,,,
-NFYS,Enphys Acquisition Corp.,,,,
-MYFW,"First Western Financial, Inc.",,,,
-FLC,Flaherty & Crumrine Total Return Fund Inc.,,,,
-PZC,PIMCO California Municipal Income Fund III,,,,
-MPA,BlackRock MuniYield Pennsylvania Quality Fund,,,,
-EHI,Western Asset Global High Income Fund Inc.,,,,
-EVE,EVe Mobility Acquisition Corp,,,,
-MRCC,Monroe Capital Corporation,,,,
-ALCY,Alchemy Investments Acquisition Corp 1,,,,
-BGX,Blackstone / GSO Long-Short Credit Income Fund,,,,
-IBAC,IB Acquisition Corp.,,,,
-NNY,Nuveen New York Municipal Value Fund,,,,
-TEAF,Ecofin Sustainable and Social Impact Term Fund,,,,
-IDE,"Voya Infrastructure, Industrials and Materials Fund",,,,
-EMLD,FTAC Emerald Acquisition Corp.,,,,
-MCN,Madison Covered Call & Equity Strategy Fund,,,,
-EDF,Virtus Stone Harbor Emerging Markets Income Fund,,,,
-EVBN,"Evans Bancorp, Inc.",,,,
-ESHA,ESH Acquisition Corp.,,,,
-BFAC,Battery Future Acquisition Corp.,,,,
-MHF,Western Asset Municipal High Income Fund Inc.,,,,
-PWOD,"Penns Woods Bancorp, Inc.",,,,
-GGT,The Gabelli Multimedia Trust Inc.,,,,
-ISTR,Investar Holding Corporation,,,,
-PEBK,"Peoples Bancorp of North Carolina, Inc.",,,,
-CFFI,C&F Financial Corporation,,,,
-MSD,"Morgan Stanley Emerging Markets Debt Fund, Inc.",,,,
-DMF,"BNY Mellon Municipal Income, Inc.",,,,
-GRX,The Gabelli Healthcare & Wellness Trust,,,,
-DXYZ,Destiny Tech100 Inc.,,,,
-SPE,"Special Opportunities Fund, Inc.",,,,
-EVG,Eaton Vance Short Duration Diversified Income Fund,,,,
-SAMG,Silvercrest Asset Management Group Inc.,,,,
-WNEB,"Western New England Bancorp, Inc.",,,,
-VCXB,10X Capital Venture Acquisition Corp. III,,,,
-OPBK,OP Bancorp,,,,
-BCSA,Blockchain Coinvestors Acquisition Corp. I,,,,
-BWG,Legg Mason BW Global Income Opportunities Fund Inc.,,,,
-ISRL,Israel Acquisitions Corp,,,,
-HWBK,"Hawthorn Bancshares, Inc.",,,,
-FNRN,First Northern Community Bancorp,,,,
-EARN,Ellington Credit Company,,,,
-ISBA,Isabella Bank Corporation,,,,
-BVFL,"BV Financial, Inc.",,,,
-DMO,Western Asset Mortgage Opportunity Fund Inc.,,,,
-ATEK,Athena Technology Acquisition Corp. II,,,,
-LYBC,Lyons Bancorp Inc.,,,,
-FUNC,First United Corporation,,,,
-BTA,BlackRock Long-Term Municipal Advantage Trust,,,,
-AFBI,"Affinity Bancshares, Inc.",,,,
-IGA,Voya Global Advantage and Premium Opportunity Fund,,,,
-GF,"The New Germany Fund, Inc.",,,,
-PFD,Flaherty & Crumrine Preferred Income Fund Inc.,,,,
-FNCB,"FNCB Bancorp, Inc.",,,,
-BANX,ArrowMark Financial Corp.,,,,
-GLQ,Clough Global Equity Fund,,,,
-DCF,"BNY Mellon Alcentra Global Credit Income 2024 Target Term Fund, Inc.",,,,
-NNAG,99 Acquisition Group Inc.,,,,
-FINW,FinWise Bancorp,,,,
-MNTN,Everest Consolidator Acquisition Corporation,,,,
-ZLS,Zalatoris II Acquisition Corp.,,,,
-FMN,Federated Hermes Premier Municipal Income Fund,,,,
-OAKC,Oakworth Capital Inc.,,,,
-PHYT,Pyrophyte Acquisition Corp.,,,,
-NAZ,Nuveen Arizona Quality Municipal Income Fund,,,,
-RMBI,"Richmond Mutual Bancorporation, Inc.",,,,
-JHS,John Hancock Income Securities Trust,,,,
-GATE,Marblegate Acquisition Corp.,,,,
-VFL,abrdn National Municipal Income Fund,,,,
-MNSB,"MainStreet Bancshares, Inc.",,,,
-KCGI,Kensington Capital Acquisition Corp. V,,,,
-PBNC,PB Financial Corporation,,,,
-HEQ,John Hancock Hedged Equity & Income Fund,,,,
-BFIN,BankFinancial Corporation,,,,
-TYCB,"Calvin B. Taylor Bankshares, Inc.",,,,
-PROP,Prairie Operating Co.,,,,
-UBFO,United Security Bancshares,,,,
-EVGR,Evergreen Corporation,,,,
-WEA,Western Asset Premier Bond Fund,,,,
-FCCO,First Community Corporation,,,,
-FRAF,Franklin Financial Services Corporation,,,,
-KF,"The Korea Fund, Inc.",,,,
-BOID,Bank of Idaho Holding Company,,,,
-FSFG,"First Savings Financial Group, Inc.",,,,
-IFIN,InFinT Acquisition Corporation,,,,
-SRV,NXG Cushing Midstream Energy Fund,,,,
-PHD,"Pioneer Floating Rate Fund, Inc.",,,,
-BOCN,Blue Ocean Acquisition Corp.,,,,
-PCF,High Income Securities Fund,,,,
-RCFA,Perception Capital Corp. IV,,,,
-CCFN,Muncy Columbia Financial Corporation,,,,
-HNVR,"Hanover Bancorp, Inc.",,,,
-CFBK,CF Bankshares Inc.,,,,
-CZWI,"Citizens Community Bancorp, Inc.",,,,
-OFS,OFS Capital Corporation,,,,
-PLMI,Plum Acquisition Corp. I,,,,
-MRBK,Meridian Corporation,,,,
-JHI,John Hancock Investors Trust,,,,
-EFSI,"Eagle Financial Services, Inc.",,,,
-BYNO,byNordic Acquisition Corporation,,,,
-OCCI,"OFS Credit Company, Inc.",,,,
-ECBK,"ECB Bancorp, Inc.",,,,
-APXI,APx Acquisition Corp. I,,,,
-CBFV,"CB Financial Services, Inc.",,,,
-CDAQ,Compass Digital Acquisition Corp.,,,,
-CSTAF,Constellation Acquisition Corp,,,,
-PAI,Western Asset Investment Grade Income Fund Inc.,,,,
-ECF,Ellsworth Growth and Income Fund Ltd.,,,,
-PFTA,Perception Capital Corp. III,,,,
-WHG,"Westwood Holdings Group, Inc.",,,,
-NIM,Nuveen Select Maturities Municipal Fund,,,,
-FGBI,"First Guaranty Bancshares, Inc.",,,,
-MNAT,Marquette National Corporation,,,,
-PFO,Flaherty & Crumrine Preferred Income Opportunity Fund Inc.,,,,
-CGO,Calamos Global Total Return Fund,,,,
-SBI,Western Asset Intermediate Muni Fund Inc.,,,,
-PLMJ,Plum Acquisition Corp. III,,,,
-SFBC,"Sound Financial Bancorp, Inc.",,,,
-SRL,Scully Royalty Ltd.,,,,
-GECC,Great Elm Capital Corp.,,,,
-KSM,DWS Strategic Municipal Income Trust,,,,
-PCSC,Perceptive Capital Solutions Corp,,,,
-TLGY,TLGY Acquisition Corporation,,,,
-TGAA,Target Global Acquisition I Corp.,,,,
-NXG,NXG NextGen Infrastructure Income Fund,,,,
-MCBI,"Mountain Commerce Bancorp, Inc.",,,,
-WMPN,William Penn Bancorporation,,,,
-THCP,Thunder Bridge Capital Partners IV Inc.,,,,
-CSLM,CSLM Acquisition Corp.,,,,
-MCAC,Monterey Capital Acquisition Corporation,,,,
-BLUA,BlueRiver Acquisition Corp.,,,,
-FNWD,Finward Bancorp,,,,
-SWZ,The Swiss Helvetia Fund Inc.,,,,
-LARK,"Landmark Bancorp, Inc.",,,,
-GSIW,Garden Stage Limited,,,,
-FCAP,"First Capital, Inc.",,,,
-EBMT,"Eagle Bancorp Montana, Inc.",,,,
-NMT,Nuveen Massachusetts Quality Municipal Income Fund,,,,
-ALSA,Alpha Star Acquisition Corporation,,,,
-HMNF,"HMN Financial, Inc.",,,,
-CHN,"The China Fund, Inc.",,,,
-GPAC,Global Partner Acquisition Corp II,,,,
-CCIF,Carlyle Credit Income Fund,,,,
-CBBI,"CBB Bancorp, Inc.",,,,
-EVF,Eaton Vance Senior Income Trust,,,,
-RMI,"RiverNorth Opportunistic Municipal Income Fund, Inc.",,,,
-FETM,"Fentura Financial, Inc.",,,,
-PFLC,Pacific Financial Corporation,,,,
-BITE,Bite Acquisition Corp.,,,,
-JLS,Nuveen Mortgage and Income Fund,,,,
-NMI,"Nuveen Municipal Income Fund, Inc.",,,,
-SUAC,ShoulderUp Technology Acquisiti,,,,
-EMYB,"Embassy Bancorp, Inc.",,,,
-FGFH,"Foresight Financial Group, Inc.",,,,
-RFM,"RiverNorth Flexible Municipal Income Fund, Inc.",,,,
-IXAQ,IX Acquisition Corp.,,,,
-HNW,"Pioneer Diversified High Income Fund, Inc.",,,,
-UNB,"Union Bankshares, Inc.",,,,
-TBMC,Trailblazer Merger Corporation I,,,,
-IHD,Voya Emerging Markets High Dividend Equity Fund,,,,
-FXNC,First National Corporation,,,,
-CNBN,"CNB Bank Shares, Inc.",,,,
-BOWN,Bowen Acquisition Corp,,,,
-TYFG,"Tri-County Financial Group, Inc.",,,,
-ACAB,Atlantic Coastal Acquisition Corp. II,,,,
-CHBH,"Croghan Bancshares, Inc.",,,,
-SBFG,"SB Financial Group, Inc.",,,,
-OVBC,Ohio Valley Banc Corp.,,,,
-GGZ,The Gabelli Global Small and Mid Cap Value Trust,,,,
-ARBV,American Riviera Bancorp,,,,
-CNXX,CONX Corp.,,,,
-PFX,PhenixFIN Corporation,,,,
-PBNK,Pinnacle Bank,,,,
-BCG,"Binah Capital Group, Inc.",,,,
-SABK,"South Atlantic Bancshares, Inc.",,,,
-AFJK,"Aimei Health Technology Co., Ltd",,,,
-TPZ,"Tortoise Power and Energy Infrastructure Fund, Inc.",,,,
-GDL,The GDL Fund,,,,
-NPAB,New Providence Acquisition Corp. II,,,,
-QETA,Quetta Acquisition Corporation,,,,
-GLAC,Global Lights Acquisition Corp,,,,
-BCV,Bancroft Fund Ltd.,,,,
-GNT,"GAMCO Natural Resources, Gold & Income Trust",,,,
-PCM,PCM Fund Inc.,,,,
-DYCQ,DT Cloud Acquisition Corporation,,,,
-CWBK,CW Bancorp,,,,
-BKHA,Black Hawk Acquisition Corporation,,,,
-CITE,Cartica Acquisition Corp,,,,
-TMTC,TMT Acquisition Corp,,,,
-INBC,"InBankshares, Corp",,,,
-ERH,Allspring Utilities and High Income Fund,,,,
-BSBK,Bogota Financial Corp.,,,,
-FNWB,First Northwest Bancorp,,,,
-KRNL,"Kernel Group Holdings, Inc.",,,,
-ONYX,Onyx Acquisition Co. I,,,,
-IROH,Iron Horse Acquisitions Corp.,,,,
-GAQ,Generation Asia I Acquisition Limited,,,,
-KISB,"Kish Bancorp, Inc.",,,,
-SRBK,"SR Bancorp, Inc.",,,,
-PWUP,PowerUp Acquisition Corp.,,,,
-GBBK,Global Blockchain Acquisition Corp.,,,,
-PGP,PIMCO Global StocksPLUS & Income Fund,,,,
-RBKB,"Rhinebeck Bancorp, Inc.",,,,
-ARYD,ARYA Sciences Acquisition Corp IV,,,,
-HSPO,Horizon Space Acquisition I Corp.,,,,
-BHAC,Focus Impact BH3 Acquisition Company,,,,
-IMAQ,International Media Acquisition Corp.,,,,
-VGI,Virtus Global Multi-Sector Income Fund,,,,
-GAMC,Golden Arrow Merger Corp.,,,,
-PSBQ,"PSB Holdings, Inc.",,,,
-DOMA,Doma Holdings Inc.,,,,
-BACA,Berenson Acquisition Corp. I,,,,
-VMCA,Valuence Merger Corp. I,,,,
-PROV,"Provident Financial Holdings, Inc.",,,,
-GLU,The Gabelli Global Utility & Income Trust,,,,
-PNI,PIMCO New York Municipal Income Fund II,,,,
-EMCG,Embrace Change Acquisition Corp.,,,,
-BUJA,Bukit Jalil Global Acquisition 1 Ltd,,,,
-ENBP,ENB Financial Corp,,,,
-FIAC,Focus Impact Acquisition Corp.,,,,
-NXC,Nuveen California Select Tax-Free Income Portfolio,,,,
-BNCC,"BNCCORP, Inc.",,,,
-WEL,Integrated Wellness Acquisition Corp,,,,
-IRAA,Iris Acquisition Corp,,,,
-JEQ,Abrdn Japan Equity Fund Inc,,,,
-CMTV,Community Bancorp,,,,
-AACI,Armada Acquisition Corp. I,,,,
-OAKU,Oak Woods Acquisition Corporation,,,,
-LATG,Chenghe Acquisition I Co.,,,,
-ASCB,A SPAC II Acquisition Corp.,,,,
-DPCS,DP Cap Acquisition Corp I,,,,
-PBHC,"Pathfinder Bancorp, Inc.",,,,
-CPKF,"Chesapeake Financial Shares, Inc.",,,,
-AITR,AI Transportation Acquisition Corp,,,,
-DECA,Denali Capital Acquisition Corp.,,,,
-CNGL,Canna-Global Acquisition Corp,,,,
-XFIN,ExcelFin Acquisition Corp.,,,,
-FCO,"abrdn Global Income Fund, Inc.",,,,
-HARL,Harleysville Financial Corporation,,,,
-TCOA,Zalatoris Acquisition Corp.,,,,
-GODN,Golden Star Acquisition Corporation,,,,
-BAYA,Bayview Acquisition Corp,,,,
-INAQ,Insight Acquisition Corp.,,,,
-PRLH,Pearl Holdings Acquisition Corp,,,,
-JDVB,"JD Bancshares, Inc.",,,,
-JVSA,JVSPAC Acquisition Corp.,,,,
-DTF,DTF Tax-Free Income 2028 Term Fund Inc.,,,,
-CHAA,Catcha Investment Corp,,,,
-CEV,Eaton Vance California Municipal Income Trust,,,,
-GDST,Goldenstone Acquisition Limited,,,,
-OPOF,Old Point Financial Corporation,,,,
-TETE,Technology & Telecommunication Acquisition Corporation,,,,
-FNVT,Finnovate Acquisition Corp.,,,,
-CBRG,Chain Bridge I,,,,
-PFBX,Peoples Financial Corporation,,,,
-TENK,TenX Keane Acquisition,,,,
-OCAX,OCA Acquisition Corp.,,,,
-FORL,Four Leaf Acquisition Corporation,,,,
-PMHG,Prime Meridian Holding Company,,,,
-CULL,"Cullman Bancorp, Inc.",,,,
-AEAE,AltEnergy Acquisition Corp.,,,,
-MGYR,"Magyar Bancorp, Inc.",,,,
-OFED,Oconee Federal Financial Corp.,,,,
-CNBB,"CNB Community Bancorp, Inc.",,,,
-UBCP,"United Bancorp, Inc.",,,,
-MSSA,Metal Sky Star Acquisition Corporation,,,,
-VBFC,Village Bank and Trust Financial Corp.,,,,
-TTP,"Tortoise Pipeline & Energy Fund, Inc.",,,,
-RGT,"Royce Global Trust, Inc.",,,,
-JFBC,Jeffersonville Bancorp,,,,
-GLV,Clough Global Dividend and Income Fund,,,,
-ICCH,"ICC Holdings, Inc.",,,,
-IFHI,"Integrated Financial Holdings, Inc.",,,,
-FDVA,"Freedom Financial Holdings, Inc.",,,,
-FRLA,Fortune Rise Acquisition Corporation,,,,
-IAE,Voya Asia Pacific High Dividend Equity Income Fund,,,,
-BCTF,"Bancorp 34, Inc.",,,,
-PTWO,"Pono Capital Two, Inc.",,,,
-TBNK,Territorial Bancorp Inc.,,,,
-CEE,"The Central and Eastern Europe Fund, Inc.",,,,
-DIST,Distoken Acquisition Corporation,,,,
-VLT,Invesco High Income Trust II,,,,
-MAQC,Maquia Capital Acquisition Corporation,,,,
-PGZ,Principal Real Estate Income Fund,,,,
-FISB,1st Capital Bancorp,,,,
-HAIA,Healthcare AI Acquisition Corp.,,,,
-LSBK,"Lake Shore Bancorp, Inc.",,,,
-UNIB,"University Bancorp, Inc.",,,,
-GLLI,Globalink Investment Inc.,,,,
-MDBH,"MDB Capital Holdings, LLC",,,,
-KTHN,Katahdin Bankshares Corp.,,,,
-IOR,"Income Opportunity Realty Investors, Inc.",,,,
-NMS,Nuveen Minnesota Quality Municipal Income Fund,,,,
-CLOE,Clover Leaf Capital Corp.,,,,
-MFD,Macquarie/First Trust Global Infrastructure/Utilities Dividend & Income Fund,,,,
-CXH,MFS Investment Grade Municipal Trust,,,,
-AFAR,Aura FAT Projects Acquisition Corp,,,,
-IBTN,"InsCorp, Inc.",,,,
-IHTA,Invesco High Income 2024 Target Term Fund,,,,
-RFAC,RF Acquisition Corp.,,,,
-FTII,FutureTech II Acquisition Corp.,,,,
-FFBW,"FFBW, Inc.",,,,
-FAM,First Trust/Abrdn Global Opportunity Income Fund,,,,
-IGTA,Inception Growth Acquisition Limited,,,,
-AUBN,"Auburn National Bancorporation, Inc.",,,,
-SSBI,Summit State Bank,,,,
-PNF,PIMCO New York Municipal Income Fund,,,,
-JBTC,"JBT Bancorp, Inc.",,,,
-EEA,"The European Equity Fund, Inc.",,,,
-TRVR,"Two Rivers Financial Group, Inc.",,,,
-BKSC,Bank of South Carolina Corporation,,,,
-MNMB,"Merchants & Marine Bancorp, Inc.",,,,
-FBSI,"First Bancshares, Inc.",,,,
-SEPA,SEP Acquisition Corp.,,,,
-LRFC,Logan Ridge Finance Corporation,,,,
-CTUY,Century Next Financial Corporation,,,,
-NDP,"Tortoise Energy Independence Fund, Inc.",,,,
-BLHK,blueharbor bank,,,,
-BSFO,Bank of San Francisco,,,,
-HHGC,HHG Capital Corporation,,,,
-PPBN,Pinnacle Bankshares Corporation,,,,
-TCBC,"TC Bancshares, Inc.",,,,
-JMM,Nuveen Multi-Market Income Fund,,,,
-UBOH,"United Bancshares, Inc.",,,,
-SLBK,"Skyline Bankshares, Inc.",,,,
-FMBM,F & M Bank Corp.,,,,
-IROQ,"IF Bancorp, Inc.",,,,
-JUVF,Juniata Valley Financial Corp.,,,,
-CCNB,"Coastal Carolina Bancshares, Inc.",,,,
-WBBW,"Westbury Bancorp, Inc.",,,,
-HNNA,"Hennessy Advisors, Inc.",,,,
-BRAC,Broad Capital Acquisition Corp.,,,,
-NBST,Newbury Street Acquisition Corporation,,,,
-ROCL,Roth Ch Acquisition V Co.,,,,
-FUSB,"First US Bancshares, Inc.",,,,
-WRIV,White River Bancshares Co,,,,
-CLRC,ClimateRock,,,,
-RSF,"RiverNorth Capital and Income Fund, Inc.",,,,
-CLST,"Catalyst Bancorp, Inc.",,,,
-NSTS,"NSTS Bancorp, Inc.",,,,
-CBKM,"Consumers Bancorp, Inc.",,,,
-FMY,First Trust Mortgage Income Fund,,,,
-WTMA,Welsbach Technology Metals Acquisition Corp.,,,,
-ADRT,Ault Disruptive Technologies Corporation,,,,
-BCOW,"1895 Bancorp of Wisconsin, Inc.",,,,
-BAFN,BayFirst Financial Corp.,,,,
-BYFC,Broadway Financial Corporation,,,,
-BOTJ,"Bank of the James Financial Group, Inc.",,,,
-MARX,Mars Acquisition Corp.,,,,
-VSAC,Vision Sensing Acquisition Corp.,,,,
-AOGO,Arogo Capital Acquisition Corp.,,,,
-FTFI,"First Berlin Bancorp, Inc.",,,,
-NICK,"Nicholas Financial, Inc.",,,,
-LFGP,"Ledyard Financial Group, Inc.",,,,
-WINV,WinVest Acquisition Corp.,,,,
-FSEA,"First Seacoast Bancorp, Inc.",,,,
-NXN,Nuveen New York Select Tax-Free Income Portfolio,,,,
-TCBS,"Texas Community Bancshares, Inc.",,,,
-ACAC,Acri Capital Acquisition Corporation,,,,
-MVLY,Mission Valley Bancorp,,,,
-CFOK,Community First Bancorporation,,,,
-BNIX,Bannix Acquisition Corp.,,,,
-INTE,Integral Acquisition Corporation 1,,,,
-KACL,Kairous Acquisition Corp. Limited,,,,
-MACA,Moringa Acquisition Corp,,,,
-ENDI,"CrossingBridge Advisors, LLC",,,,
-CIZN,Citizens Holding Company,,,,
-BLAC,Bellevue Life Sciences Acquisition Corp.,,,,
-DUET,DUET Acquisition Corp.,,,,
-CFSB,"CFSB Bancorp, Inc.",,,,
-YOTA,Yotta Acquisition Corporation,,,,
-MXE,Mexico Equity & Income Fund Inc.,,,,
-DMYY,"dMY Squared Technology Group, Inc.",,,,
-RWCB,Redwood Capital Bancorp,,,,
-CETU,Cetus Capital Acquisition Corp.,,,,
-FBTT,"First Bankers Trustshares, Inc.",,,,
-MSVB,"Mid-Southern Bancorp, Inc.",,,,
-NOVV,Nova Vision Acquisition Corporation,,,,
-QOMO,Qomolangma Acquisition Corp.,,,,
-WAVS,Western Acquisition Ventures Corp.,,,,
-CBAF,CITBA Financial Corporation,,,,
-OSBK,Oconee Financial Corporation,,,,
-CPBI,"Central Plains Bancshares, Inc.",,,,
-CBWA,Commencement Bancorp Inc.,,,,
-GLST,"Global Star Acquisition, Inc.",,,,
-ESBS,"ES Bancshares, Inc.",,,,
-GRF,"Eagle Capital Growth Fund, Inc.",,,,
-RAND,Rand Capital Corporation,,,,
-EGF,"BlackRock Enhanced Government Fund, Inc.",,,,
-HFBL,"Home Federal Bancorp, Inc. of Louisiana",,,,
-PBBK,"PB Bankshares, Inc.",,,,
-MCAG,Mountain Crest Acquisition Corp. V,,,,
-NIDB,"Northeast Indiana Bancorp, Inc.",,,,
-STBI,"Sturgis Bancorp, Inc.",,,,
-PYN,PIMCO New York Municipal Income Fund III,,,,
-OTTW,"Ottawa Bancorp, Inc.",,,,
-MCHN,"McHenry Bancorp, Inc.",,,,
-PPAL,Peoples Trust Company of St. Albans,,,,
-EDVR,Endeavor Bancorp,,,,
-UNIF,U & I Financial Corp.,,,,
-CMUV,CMUV Bancorp,,,,
-HCBC,"High Country Bancorp, Inc.",,,,
-VWFB,"VWF Bancorp, Inc.",,,,
-CNAF,Commercial National Financial Corporation,,,,
-QNTO,"Quaint Oak Bancorp, Inc.",,,,
-HUDA,Hudson Acquisition I Corp.,,,,
-NOM,Nuveen Missouri Quality Municipal Income Fund,,,,
-TETAA,"Teton Advisors, LLC",,,,
-ALBY,"Community Capital Bancshares, Inc.",,,,
-FBPA,The Farmers Bank of Appomattox,,,,
-GBNY,"Generations Bancorp NY, Inc.",,,,
-SLNH,"Soluna Holdings, Inc.",,,,
-CIBH,"CIB Marine Bancshares, Inc.",,,,
-SSBP,"SSB Bancorp, Inc.",,,,
-CYSM,Community Bancorp of Santa Maria,,,,
-WVFC,WVS Financial Corp.,,,,
-VTYB,"The Victory Bancorp, Inc.",,,,
-LOGN,Logansport Financial Corp.,,,,
-BHV,BlackRock Virginia Municipal Bond Trust,,,,
-PFSB,"PFS Bancorp, Inc.",,,,
-COHN,Cohen & Company Inc.,,,,
-STLY,"HG Holdings, Inc.",,,,
-MSBB,"Mercer Bancorp, Inc.",,,,
-UNTN,"United Tennessee Bankshares, Inc.",,,,
-GOVB,"Gouverneur Bancorp, Inc.",,,,
-VERF,Versailles Financial Corporation,,,,
-TRAC,"Track Data Corporation, Inc.",,,,
-DEFG,Grayscale Decentralized Finance (DeFi) Fund LLC,,,,
-SPMC,"Sound Point Meridian Capital, Inc.",,,,
-WFCL,1867 Western Financial Corporation,,,,
-WIPRO.NS,Wipro Limited,,,,
-LTIM.NS,LTIMindtree Limited,,,,
-MARUTI.NS,Maruti Suzuki India Limited,,,,
-NESTLEIND.NS,Nestlé India Limited,,,,
-ONGC.NS,Oil and Natural Gas Corporation Limited,,,,
-LT.NS,Larsen & Toubro Limited,,,,
-SHRIRAMFIN.NS,Shriram Finance Limited,,,,
-BAJAJ-AUTO.NS,Bajaj Auto Limited,,,,
-BHARTIARTL.NS,Bharti Airtel Limited,,,,
-HEROMOTOCO.NS,Hero MotoCorp Limited,,,,
-TATASTEEL.NS,Tata Steel Limited,,,,
-BAJAJFINSV.NS,Bajaj Finserv Ltd.,,,,
-TATACONSUM.NS,Tata Consumer Products Limited,,,,
-CIPLA.NS,Cipla Limited,,,,
-BRITANNIA.NS,Britannia Industries Limited,,,,
-TITAN.NS,Titan Company Limited,,,,
-ITC.NS,ITC Limited,,,,
-NTPC.NS,NTPC Limited,,,,
-KOTAKBANK.NS,Kotak Mahindra Bank Limited,,,,
-APOLLOHOSP.NS,Apollo Hospitals Enterprise Limited,,,,
-RELIANCE.NS,Reliance Industries Limited,,,,
-COALINDIA.NS,Coal India Limited,,,,
-BAJFINANCE.NS,Bajaj Finance Limited,,,,
-ULTRACEMCO.NS,UltraTech Cement Limited,,,,
-HINDALCO.NS,Hindalco Industries Limited,,,,
-INDUSINDBK.NS,IndusInd Bank Limited,,,,
-ADANIENT.NS,Adani Enterprises Limited,,,,
-HDFCLIFE.NS,HDFC Life Insurance Company Limited,,,,
-TCS.NS,Tata Consultancy Services Limited,,,,
+trick,name
+BRK-B,Berkshire Hathaway Inc.
+JPM,JPMorgan Chase & Co.
+V,Visa Inc.
+MA,Mastercard Incorporated
+BAC,Bank of America Corporation
+WFC,Wells Fargo & Company
+GS,"The Goldman Sachs Group, Inc."
+MS,Morgan Stanley
+AXP,American Express Company
+C,Citigroup Inc.
+RY,Royal Bank of Canada
+BX,Blackstone Inc.
+SPGI,S&P Global Inc.
+SCHW,The Charles Schwab Corporation
+PGR,The Progressive Corporation
+BLK,"BlackRock, Inc."
+MMC,"Marsh & McLennan Companies, Inc."
+CB,Chubb Limited
+TD,The Toronto-Dominion Bank
+KKR,KKR & Co. Inc.
+ICE,"Intercontinental Exchange, Inc."
+MCO,Moody's Corporation
+CME,CME Group Inc.
+APO,"Apollo Global Management, Inc."
+AON,Aon plc
+PNC,"The PNC Financial Services Group, Inc."
+PYPL,"PayPal Holdings, Inc."
+USB,U.S. Bancorp
+NU,Nu Holdings Ltd.
+AJG,Arthur J. Gallagher & Co.
+COIN,"Coinbase Global, Inc."
+COF,Capital One Financial Corporation
+IBKR,"Interactive Brokers Group, Inc."
+TFC,Truist Financial Corporation
+AFL,Aflac Incorporated
+MET,"MetLife, Inc."
+AIG,"American International Group, Inc."
+TRV,"The Travelers Companies, Inc."
+BK,The Bank of New York Mellon Corporation
+ARES,Ares Management Corporation
+AMP,"Ameriprise Financial, Inc."
+PRU,"Prudential Financial, Inc."
+ALL,The Allstate Corporation
+MSCI,MSCI Inc.
+ACGL,Arch Capital Group Ltd.
+NDAQ,"Nasdaq, Inc."
+DFS,Discover Financial Services
+HIG,"The Hartford Financial Services Group, Inc."
+RKT,"Rocket Companies, Inc."
+WTW,Willis Towers Watson Public Limited Company
+TROW,"T. Rowe Price Group, Inc."
+OWL,Blue Owl Capital Inc.
+BRO,"Brown & Brown, Inc."
+FITB,Fifth Third Bancorp
+RJF,"Raymond James Financial, Inc."
+MTB,M&T Bank Corporation
+FCNCA,"First Citizens BancShares, Inc."
+TW,Tradeweb Markets Inc.
+STT,State Street Corporation
+LPLA,LPL Financial Holdings Inc.
+WRB,W. R. Berkley Corporation
+MKL,Markel Group Inc.
+HOOD,"Robinhood Markets, Inc."
+ERIE,Erie Indemnity Company
+SYF,Synchrony Financial
+HBAN,Huntington Bancshares Incorporated
+PFG,"Principal Financial Group, Inc."
+CINF,Cincinnati Financial Corporation
+RF,Regions Financial Corporation
+CBOE,"Cboe Global Markets, Inc."
+CRBG,"Corebridge Financial, Inc."
+NTRS,Northern Trust Corporation
+ALLY,Ally Financial Inc.
+L,Loews Corporation
+CFG,"Citizens Financial Group, Inc."
+FDS,FactSet Research Systems Inc.
+EG,"Everest Group, Ltd."
+RYAN,"Ryan Specialty Holdings, Inc."
+TPG,TPG Inc.
+CG,The Carlyle Group Inc.
+RGA,"Reinsurance Group of America, Incorporated"
+KEY,KeyCorp
+EQH,"Equitable Holdings, Inc."
+FNF,"Fidelity National Financial, Inc."
+MORN,"Morningstar, Inc."
+ARCC,Ares Capital Corporation
+BAP,Credicorp Ltd.
+CNA,CNA Financial Corporation
+BEN,"Franklin Resources, Inc."
+RNR,RenaissanceRe Holdings Ltd.
+UWMC,UWM Holdings Corporation
+JEF,Jefferies Financial Group Inc.
+AFG,"American Financial Group, Inc."
+EWBC,"East West Bancorp, Inc."
+UNM,Unum Group
+HLI,"Houlihan Lokey, Inc."
+XP,XP Inc.
+KNSL,"Kinsale Capital Group, Inc."
+SEIC,SEI Investments Company
+AIZ,"Assurant, Inc."
+SF,Stifel Financial Corp.
+FHN,First Horizon Corporation
+ORI,Old Republic International Corporation
+EVR,Evercore Inc.
+PRI,"Primerica, Inc."
+MKTX,MarketAxess Holdings Inc.
+GL,Globe Life Inc.
+WBS,Webster Financial Corporation
+VOYA,"Voya Financial, Inc."
+CBSH,"Commerce Bancshares, Inc."
+HLNE,Hamilton Lane Incorporated
+WAL,Western Alliance Bancorporation
+SOFI,"SoFi Technologies, Inc."
+IVZ,Invesco Ltd.
+CMA,Comerica Incorporated
+ZION,"Zions Bancorporation, National Association"
+CFR,"Cullen/Frost Bankers, Inc."
+BPOP,"Popular, Inc."
+RLI,RLI Corp.
+CACC,Credit Acceptance Corporation
+OBDC,Blue Owl Capital Corporation
+WTFC,Wintrust Financial Corporation
+MARA,"Marathon Digital Holdings, Inc."
+PNFP,"Pinnacle Financial Partners, Inc."
+BXSL,Blackstone Secured Lending Fund
+ESNT,Essent Group Ltd.
+SNV,Synovus Financial Corp.
+AXS,AXIS Capital Holdings Limited
+PDI,PIMCO Dynamic Income Fund
+OMF,"OneMain Holdings, Inc."
+BOKF,BOK Financial Corporation
+PB,"Prosperity Bancshares, Inc."
+SSB,SouthState Corporation
+MTG,MGIC Investment Corporation
+JXN,Jackson Financial Inc.
+FSK,FS KKR Capital Corp.
+SIGI,"Selective Insurance Group, Inc."
+FAF,First American Financial Corporation
+JHG,Janus Henderson Group plc
+ONB,Old National Bancorp
+LNC,Lincoln National Corporation
+COOP,Mr. Cooper Group Inc.
+STEP,StepStone Group LP
+CADE,Cadence Bank
+PSLV,Sprott Physical Silver Trust
+AMG,"Affiliated Managers Group, Inc."
+FNB,F.N.B. Corporation
+ACT,"Enact Holdings, Inc."
+FG,"F&G Annuities & Life, Inc."
+PFSI,"PennyMac Financial Services, Inc."
+HOMB,"Home Bancshares, Inc. (Conway, AR)"
+ESGR,Enstar Group Limited
+RDN,Radian Group Inc.
+FCFS,"FirstCash Holdings, Inc."
+OZK,Bank OZK
+SLM,SLM Corporation
+FRHC,Freedom Holding Corp.
+THG,"The Hanover Insurance Group, Inc."
+MAIN,Main Street Capital Corporation
+WTM,"White Mountains Insurance Group, Ltd."
+CRVL,CorVel Corporation
+PJT,PJT Partners Inc.
+BGC,"BGC Group, Inc."
+UBSI,"United Bankshares, Inc."
+AGO,Assured Guaranty Ltd.
+GBDC,"Golub Capital BDC, Inc."
+FFIN,"First Financial Bankshares, Inc."
+WU,The Western Union Company
+GBCI,"Glacier Bancorp, Inc."
+COLB,"Columbia Banking System, Inc."
+DNB,"Dun & Bradstreet Holdings, Inc."
+HWC,Hancock Whitney Corporation
+MC,Moelis & Company
+UMBF,UMB Financial Corporation
+AB,AllianceBernstein Holding L.P.
+KMPR,Kemper Corporation
+NNI,"Nelnet, Inc."
+CLSK,"CleanSpark, Inc."
+CNS,"Cohen & Steers, Inc."
+VIRT,"Virtu Financial, Inc."
+IBOC,International Bancshares Corporation
+HGTY,"Hagerty, Inc."
+LAZ,"Lazard, Inc."
+TFSL,TFS Financial Corporation
+PIPR,Piper Sandler Companies
+ABCB,Ameris Bancorp
+HTGC,"Hercules Capital, Inc."
+VLY,Valley National Bancorp
+SFBS,"ServisFirst Bancshares, Inc."
+AX,"Axos Financial, Inc."
+WD,"Walker & Dunlop, Inc."
+VCTR,"Victory Capital Holdings, Inc."
+ASB,Associated Banc-Corp
+FBP,First BanCorp.
+DNP,DNP Select Income Fund Inc.
+CNO,"CNO Financial Group, Inc."
+FULT,Fulton Financial Corporation
+UCBI,"United Community Banks, Inc."
+AUB,Atlantic Union Bankshares Corporation
+MCY,Mercury General Corporation
+FIBK,"First Interstate BancSystem, Inc."
+BANF,BancFirst Corporation
+BUR,Burford Capital Limited
+APAM,Artisan Partners Asset Management Inc.
+TCBI,"Texas Capital Bancshares, Inc."
+WSFS,WSFS Financial Corporation
+FHI,"Federated Hermes, Inc."
+RIOT,"Riot Platforms, Inc."
+NMIH,"NMI Holdings, Inc."
+NAD,Nuveen Quality Municipal Income Fund
+CSQ,Calamos Strategic Total Return Fund
+BHF,"Brighthouse Financial, Inc."
+ADX,"Adams Diversified Equity Fund, Inc."
+IREN,Iris Energy Limited
+CATY,Cathay General Bancorp
+NEA,Nuveen AMT-Free Quality Municipal Income Fund
+NVG,Nuveen AMT-Free Municipal Credit Income Fund
+GNW,"Genworth Financial, Inc."
+INTR,"Inter & Co, Inc."
+FHB,"First Hawaiian, Inc."
+EXG,Eaton Vance Tax-Managed Global Diversified Equity Income Fund
+AMK,"AssetMark Financial Holdings, Inc."
+EBC,"Eastern Bankshares, Inc."
+CBU,"Community Financial System, Inc."
+SNEX,StoneX Group Inc.
+NZF,Nuveen Municipal Credit Income Fund
+JPC,Nuveen Preferred & Income Opportunities Fund
+BWIN,"The Baldwin Insurance Group, Inc."
+CVBF,CVB Financial Corp.
+PSEC,Prospect Capital Corporation
+WAFD,"WaFd, Inc."
+PRK,Park National Corporation
+BOH,Bank of Hawaii Corporation
+BFH,"Bread Financial Holdings, Inc."
+ETY,Eaton Vance Tax-Managed Diversified Equity Income Fund
+PTY,PIMCO Corporate & Income Opportunity Fund
+BANC,"Banc of California, Inc."
+BKU,"BankUnited, Inc."
+SFNC,Simmons First National Corporation
+PPBI,"Pacific Premier Bancorp, Inc."
+UTF,"Cohen & Steers Infrastructure Fund, Inc"
+GSHD,"Goosehead Insurance, Inc"
+UTG,Reaves Utility Income Fund
+FFBC,First Financial Bancorp.
+INDB,Independent Bank Corp.
+PLMR,"Palomar Holdings, Inc."
+GDV,The Gabelli Dividend & Income Trust
+SPNT,SiriusPoint Ltd.
+TOWN,TowneBank
+UPST,"Upstart Holdings, Inc."
+MSDL,
+TSLX,"Sixth Street Specialty Lending, Inc."
+HTH,Hilltop Holdings Inc.
+SBCF,Seacoast Banking Corporation of Florida
+GOF,Guggenheim Strategic Opportunities Fund
+TBBK,"The Bancorp, Inc."
+USA,Liberty All-Star Equity Fund
+FRME,First Merchants Corporation
+FIHL,Fidelis Insurance Holdings Limited
+PFS,"Provident Financial Services, Inc."
+HTLF,"Heartland Financial USA, Inc."
+IBTX,"Independent Bank Group, Inc."
+PAX,Patria Investments Limited
+MBIN,Merchants Bancorp
+TFIN,"Triumph Financial, Inc."
+OBDE,Blue Owl Capital Corporation III
+GCMG,GCM Grosvenor Inc.
+NWLI,"National Western Life Group, Inc."
+CLM,"Cornerstone Strategic Value Fund, Inc."
+FBK,FB Financial Corporation
+ECAT,BlackRock ESG Capital Allocation Term Trust
+TRMK,Trustmark Corporation
+NBTB,NBT Bancorp Inc.
+WULF,TeraWulf Inc.
+NUV,"Nuveen Municipal Value Fund, Inc."
+BCAT,BlackRock Capital Allocation Term Trust
+KYN,"Kayne Anderson Energy Infrastructure Fund, Inc."
+OFG,OFG Bancorp
+EVT,Eaton Vance Tax-Advantaged Dividend Income Fund
+HG,"Hamilton Insurance Group, Ltd."
+GSBD,"Goldman Sachs BDC, Inc."
+STC,Stewart Information Services Corporation
+ENVA,"Enova International, Inc."
+RNST,Renasant Corporation
+NAC,Nuveen California Quality Municipal Income Fund
+BANR,Banner Corporation
+BIGZ,BlackRock Innovation and Growth Term Trust
+RVT,"Royce Small-Cap Trust, Inc."
+WSBC,"WesBanco, Inc."
+BMEZ,BlackRock Health Sciences Term Trust
+VRTS,"Virtus Investment Partners, Inc."
+NAVI,Navient Corporation
+GAB,The Gabelli Equity Trust Inc.
+NTB,The Bank of N.T. Butterfield & Son Limited
+ETV,Eaton Vance Tax-Managed Buy-Write Opportunities Fund
+RQI,"Cohen & Steers Quality Income Realty Fund, Inc."
+CHCO,City Holding Company
+BSTZ,BlackRock Science and Technology Term Trust
+LKFN,Lakeland Financial Corporation
+BDJ,BlackRock Enhanced Equity Dividend Trust
+CLBK,"Columbia Financial, Inc."
+CUBI,"Customers Bancorp, Inc."
+OCSL,Oaktree Specialty Lending Corporation
+PDO,Pimco Dynamic Income Opportunities Fund
+LOB,"Live Oak Bancshares, Inc."
+WT,"WisdomTree, Inc."
+PWP,Perella Weinberg Partners
+EFSC,Enterprise Financial Services Corp
+OXLC,Oxford Lane Capital Corp.
+HUT,Hut 8 Corp.
+NBHC,National Bank Holdings Corporation
+NWBI,"Northwest Bancshares, Inc."
+AGM-A,Federal Agricultural Mortgage Corporation
+CASH,"Pathward Financial, Inc."
+SYBT,"Stock Yards Bancorp, Inc."
+ETG,Eaton Vance Tax-Advantaged Global Dividend Income Fund
+SKWD,"Skyward Specialty Insurance Group, Inc."
+BXMX,Nuveen S&P 500 Buy-Write Income Fund
+FCF,First Commonwealth Financial Corporation
+STEW,"SRH Total Return Fund, Inc."
+HYT,"BlackRock Corporate High Yield Fund, Inc."
+MRX,Marex Group plc
+BTT,Blackrock Municipal 2030 Target Term Trust
+BUSE,First Busey Corporation
+NMFC,New Mountain Finance Corporation
+DSL,DoubleLine Income Solutions Fund
+BST,BlackRock Science and Technology Trust
+FBNC,First Bancorp
+HMN,Horace Mann Educators Corporation
+SRCE,1st Source Corporation
+WABC,Westamerica Bancorporation
+TCBK,TriCo Bancshares
+HOPE,"Hope Bancorp, Inc."
+STBA,"S&T Bancorp, Inc."
+CET,Central Securities Corporation
+QQQX,Nuveen Nasdaq 100 Dynamic Overwrite Fund
+CSWC,Capital Southwest Corporation
+TRUP,"Trupanion, Inc."
+NIC,"Nicolet Bankshares, Inc."
+STEL,"Stellar Bancorp, Inc."
+NMZ,Nuveen Municipal High Income Opportunity Fund
+JFR,Nuveen Floating Rate Income Fund
+GAM,"General American Investors Company, Inc."
+NFJ,"Virtus Dividend, Interest & Premium Strategy Fund"
+LMND,"Lemonade, Inc."
+EOS,Eaton Vance Enhanced Equity Income Fund II
+KBDC,"Kayne Anderson BDC, Inc."
+VBTX,"Veritex Holdings, Inc."
+EVV,Eaton Vance Limited Duration Income Fund
+BLX,"Banco Latinoamericano de Comercio Exterior, S. A."
+SAFT,"Safety Insurance Group, Inc."
+FPF,First Trust Intermediate Duration Preferred & Income Fund
+PTA,Cohen & Steers Tax-Advantaged Preferred Securities and Income Fund
+SASR,"Sandy Spring Bancorp, Inc."
+EIG,"Employers Holdings, Inc."
+BCSF,"Bain Capital Specialty Finance, Inc."
+BBDC,"Barings BDC, Inc."
+BY,"Byline Bancorp, Inc."
+PEBO,Peoples Bancorp Inc.
+MUC,"BlackRock MuniHoldings California Quality Fund, Inc."
+GABC,"German American Bancorp, Inc."
+PDX,PIMCO Dynamic Income Strategy Fund
+RBCAA,"Republic Bancorp, Inc."
+BBN,BlackRock Taxable Municipal Bond Trust
+MFIC,MidCap Financial Investment Corporation
+PFBC,Preferred Bank
+BTZ,BlackRock Credit Allocation Income Trust
+RNP,"Cohen & Steers REIT and Preferred Income Fund, Inc."
+CVII,Churchill Capital Corp VII
+ECPG,"Encore Capital Group, Inc."
+QCRH,"QCR Holdings, Inc."
+NCDL,Nuveen Churchill Direct Lending Corp.
+BHLB,"Berkshire Hills Bancorp, Inc."
+OBK,"Origin Bancorp, Inc."
+NRK,Nuveen New York AMT-Free Quality Municipal Income Fund
+HCI,"HCI Group, Inc."
+LC,LendingClub Corporation
+PX,"P10, Inc."
+TCPC,BlackRock TCP Capital Corp.
+CGBD,"Carlyle Secured Lending, Inc."
+BRDG,Bridge Investment Group Holdings Inc.
+ETW,Eaton Vance Tax-Managed Global Buy-Write Opportunities Fund
+FSUN,FirstSun Capital Bancorp
+OCFC,OceanFirst Financial Corp.
+AWF,AllianceBernstein Global High Income Fund
+AOD,Abrdn Total Dynamic Dividend Fund
+CHI,Calamos Convertible Opportunities and Income Fund
+CII,"BlackRock Enhanced Capital and Income Fund, Inc."
+HQH,Abrdn Healthcare Investors
+GHLD,Guild Holdings Company
+MQY,"BlackRock MuniYield Quality Fund, Inc."
+MUI,"BlackRock Municipal Income Fund, Inc."
+SLRC,SLR Investment Corp.
+CRF,"Cornerstone Total Return Fund, Inc."
+CHY,Calamos Convertible and High Income Fund
+ECC,Eagle Point Credit Company Inc.
+BSIG,BrightSphere Investment Group Inc.
+THQ,Abrdn Healthcare Opportunities Fund
+AMSF,"AMERISAFE, Inc."
+BFC,Bank First Corporation
+SBSI,"Southside Bancshares, Inc."
+AMAL,Amalgamated Financial Corp.
+EOI,Eaton Vance Enhanced Equity Income Fund
+FBMS,"The First Bancshares, Inc."
+BOW,Bowhead Specialty Holdings Inc.
+BCX,Blackrock Resources & Commodities Strategy Trust
+PFLT,PennantPark Floating Rate Capital Ltd.
+ROOT,"Root, Inc."
+FMBH,"First Mid Bancshares, Inc."
+PRAA,"PRA Group, Inc."
+DCOM,"Dime Community Bancshares, Inc."
+JQC,Nuveen Credit Strategies Income Fund
+DLY,DoubleLine Yield Opportunities Fund
+CTBI,"Community Trust Bancorp, Inc."
+EIM,Eaton Vance Municipal Bond Fund
+AMTB,Amerant Bancorp Inc.
+AMRK,"A-Mark Precious Metals, Inc."
+BRKL,"Brookline Bancorp, Inc."
+AIO,Virtus Artificial Intelligence & Technology Opportunities Fund
+MYI,"BlackRock MuniYield Quality Fund III, Inc."
+TRIN,Trinity Capital Inc.
+WRLD,World Acceptance Corporation
+HTD,John Hancock Tax-Advantaged Dividend Income Fund
+PCN,PIMCO Corporate & Income Strategy Fund
+CFFN,"Capitol Federal Financial, Inc."
+BHRB,Burke & Herbert Financial Services Corp.
+PFC,Premier Financial Corp.
+CCAP,"Crescent Capital BDC, Inc."
+RA,Brookfield Real Assets Income Fund Inc.
+CNOB,"ConnectOne Bancorp, Inc."
+FFC,Flaherty & Crumrine Preferred Securities Income Fund Inc.
+IGR,CBRE Global Real Estate Income Fund
+FMCB,Farmers & Merchants Bancorp
+AC,"Associated Capital Group, Inc."
+NXP,Nuveen Select Tax-Free Income Portfolio
+CFB,"CrossFirst Bankshares, Inc."
+TMP,Tompkins Financial Corporation
+ABL,"Abacus Life, Inc."
+AACT,Ares Acquisition Corporation II
+BOE,BlackRock Enhanced Global Dividend Trust
+IFN,"The India Fund, Inc."
+OSBC,"Old Second Bancorp, Inc."
+FCBC,"First Community Bankshares, Inc."
+LPRO,Open Lending Corporation
+CION,CION Investment Corporation
+UVSP,Univest Financial Corporation
+MCBS,"MetroCity Bankshares, Inc."
+IGIC,International General Insurance Holdings Ltd.
+NIE,Virtus Equity & Convertible Income Fund
+NDMO,Nuveen Dynamic Municipal Opportunities Fund
+NBBK,"NB Bancorp, Inc."
+HBT,"HBT Financial, Inc."
+MBWM,Mercantile Bank Corporation
+MHD,"BlackRock MuniHoldings Fund, Inc."
+GSBC,"Great Southern Bancorp, Inc."
+CEM,ClearBridge MLP and Midstream Fund Inc
+FDUS,Fidus Investment Corporation
+FBAK,First National Bank Alaska
+PFN,PIMCO Income Strategy Fund II
+PRA,ProAssurance Corporation
+VEL,"Velocity Financial, Inc."
+CCD,Calamos Dynamic Convertible and Income Fund
+HFWA,Heritage Financial Corporation
+CCB,Coastal Financial Corporation
+MUJ,"BlackRock MuniHoldings New Jersey Quality Fund, Inc."
+NKX,Nuveen California AMT-Free Quality Municipal Income Fund
+PEO,"Adams Natural Resources Fund, Inc."
+NMCO,Nuveen Municipal Credit Opportunities Fund
+TIPT,Tiptree Inc.
+ETJ,Eaton Vance Risk-Managed Diversified Equity Income Fund
+OTCM,OTC Markets Group Inc.
+VINP,Vinci Partners Investments Ltd.
+IIM,Invesco Value Municipal Income Trust
+LDP,"Cohen & Steers Limited Duration Preferred and Income Fund, Inc."
+PDT,John Hancock Premium Dividend Fund
+FMBL,Farmers & Merchants Bank of Long Beach
+BHK,BlackRock Core Bond Trust
+PML,PIMCO Municipal Income Fund II
+CPF,Central Pacific Financial Corp.
+MMU,Western Asset Managed Municipals Fund Inc.
+BGY,BlackRock Enhanced International Dividend Trust
+BME,BlackRock Health Sciences Trust
+BTO,John Hancock Financial Opportunities Fund
+EZPW,"EZCORP, Inc."
+GAMI,"GAMCO Investors, Inc."
+STK,Columbia Seligman Premium Technology Growth Fund
+AMBC,"Ambac Financial Group, Inc."
+EGBN,"Eagle Bancorp, Inc."
+TREE,"LendingTree, Inc."
+BIT,BlackRock Multi-Sector Income Trust
+VKQ,Invesco Municipal Trust
+EMD,Western Asset Emerging Markets Debt Fund Inc.
+ORRF,"Orrstown Financial Services, Inc."
+IBCP,Independent Bank Corporation
+CATC,Cambridge Bancorp
+HBNC,"Horizon Bancorp, Inc."
+BFST,"Business First Bancshares, Inc."
+BGB,Blackstone Strategic Credit 2027 Term Fund
+GCBC,"Greene County Bancorp, Inc."
+TRST,TrustCo Bank Corp NY
+RILY,"B. Riley Financial, Inc."
+EMO,ClearBridge Energy Midstream Opportunity Fund Inc
+EQBK,"Equity Bancshares, Inc."
+UFCS,"United Fire Group, Inc."
+PSBD,Palmer Square Capital BDC Inc.
+WIW,Western Asset Inflation-Linked Opportunities & Income Fund
+UVE,"Universal Insurance Holdings, Inc."
+FTHY,First Trust High Yield Opportunities 2027 Term Fund
+GAIN,Gladstone Investment Corporation
+GLAD,Gladstone Capital Corporation
+HTBK,Heritage Commerce Corp
+BLE,BlackRock Municipal Income Trust II
+HTBI,"HomeTrust Bancshares, Inc."
+DIAX,Nuveen Dow 30 Dynamic Overwrite Fund
+SEZL,Sezzle Inc.
+OPY,Oppenheimer Holdings Inc.
+HPS,John Hancock Preferred Income Fund III
+DSU,"BlackRock Debt Strategies Fund, Inc."
+NXJ,Nuveen New Jersey Quality Municipal Income Fund
+ACIC,American Coastal Insurance Corporation
+FSBC,Five Star Bancorp
+BLW,BlackRock Limited Duration Income Trust
+GDOT,Green Dot Corporation
+MCBC,Macatawa Bank Corporation
+SMBC,"Southern Missouri Bancorp, Inc."
+PNNT,PennantPark Investment Corporation
+THW,Abrdn World Healthcare Fund
+BUI,"BlackRock Utilities, Infrastructure & Power Opportunities Trust"
+MYD,"BlackRock MuniYield Fund, Inc."
+GHY,"PGIM Global High Yield Fund, Inc"
+HAFC,Hanmi Financial Corporation
+FFMR,First Farmers Financial Corporation
+HONE,"HarborOne Bancorp, Inc."
+NBN,Northeast Bank
+MSBI,"Midland States Bancorp, Inc."
+CAC,Camden National Corporation
+MCB,Metropolitan Bank Holding Corp.
+CCBG,"Capital City Bank Group, Inc."
+FRA,"BlackRock Floating Rate Income Strategies Fund, Inc."
+FMNB,Farmers National Banc Corp.
+MVF,"BlackRock MuniVest Fund, Inc."
+RWAY,Runway Growth Finance Corp.
+RMT,"Royce Micro-Cap Trust, Inc."
+MMD,MainStay MacKay DefinedTerm Municipal Opportunities Fund
+NML,Neuberger Berman Energy Infrastructure and Income Fund Inc.
+NQP,Nuveen Pennsylvania Quality Municipal Income Fund
+NBB,Nuveen Taxable Municipal Income Fund
+GUT,The Gabelli Utility Trust
+WASH,"Washington Trust Bancorp, Inc."
+CHW,Calamos Global Dynamic Income Fund
+ATLC,Atlanticus Holdings Corporation
+HPI,John Hancock Preferred Income Fund
+SPFI,"South Plains Financial, Inc."
+BFK,BlackRock Municipal Income Trust
+JPI,Nuveen Preferred and Income Term Fund
+MUA,"BlackRock MuniAssets Fund, Inc."
+ANSC,Agriculture & Natural Solutions Acquisition Corporation
+GLRE,"Greenlight Capital Re, Ltd."
+ISD,"PGIM High Yield Bond Fund, Inc."
+HRZN,Horizon Technology Finance Corporation
+THFF,First Financial Corporation
+VALU,"Value Line, Inc."
+AROW,Arrow Financial Corporation
+GBLI,"Global Indemnity Group, LLC"
+ETO,Eaton Vance Tax-Advantaged Global Dividend Opportunities Fund
+ETB,Eaton Vance Tax-Managed Buy-Write Income Fund
+CCNE,CNB Financial Corporation
+DGICA,Donegal Group Inc.
+NFBK,"Northfield Bancorp, Inc. (Staten Island, NY)"
+HFRO,Highland Funds I - Highland Opportunities and Income Fund
+CRD-A,Crawford & Company
+AVK,Advent Convertible and Income Fund
+EVN,Eaton Vance Municipal Income Trust
+IGD,Voya Global Equity Dividend and Premium Opportunity Fund
+FSD,First Trust High Income Long/Short Fund
+SMBK,"SmartFinancial, Inc."
+EAD,Wells Fargo Advantage Funds - Allspring Income Opportunities Fund
+NETD,Nabors Energy Transition Corp. II
+BHB,Bar Harbor Bankshares
+MYN,"BlackRock MuniYield New York Quality Fund, Inc."
+DHIL,"Diamond Hill Investment Group, Inc."
+FFA,First Trust Enhanced Equity Income Fund
+VKI,Invesco Advantage Municipal Income Trust II
+DFP,Flaherty & Crumrine Dynamic Preferred and Income Fund Inc.
+PGC,Peapack-Gladstone Financial Corporation
+HQL,Abrdn Life Sciences Investors
+XFLT,XAI Octagon Floating Rate & Alternative Income Trust
+ESQ,"Esquire Financial Holdings, Inc."
+HIFS,Hingham Institution for Savings
+EFR,Eaton Vance Senior Floating-Rate Trust
+HIPO,Hippo Holdings Inc.
+LEO,"BNY Mellon Strategic Municipals, Inc."
+TYG,Tortoise Energy Infrastructure Corporation
+KRNY,Kearny Financial Corp.
+SDHY,PGIM Short Duration High Yield Opportunities Fund
+ALRS,Alerus Financial Corporation
+SHBI,"Shore Bancshares, Inc."
+DPG,Duff & Phelps Utility and Infrastructure Fund Inc.
+GBAB,Guggenheim Taxable Municipal Bond & Investment Grade Debt Trust
+MCI,Barings Corporate Investors
+KTF,DWS Municipal Income Trust
+FFIC,Flushing Financial Corporation
+KIO,KKR Income Opportunities Fund
+HPF,John Hancock Preferred Income Fund II
+CCIX,Churchill Capital Corp IX
+BGR,BlackRock Energy and Resources Trust
+RRAC,Rigel Resource Acquisition Corp.
+MPB,"Mid Penn Bancorp, Inc."
+ASA,ASA Gold and Precious Metals Limited
+BFZ,BlackRock California Municipal Income Trust
+SOR,"Source Capital, Inc."
+EFT,Eaton Vance Floating-Rate Income Trust
+GNTY,"Guaranty Bancshares, Inc."
+NAN,Nuveen New York Quality Municipal Income Fund
+ARDC,"Ares Dynamic Credit Allocation Fund, Inc."
+ACP,Abrdn Income Credit Strategies Fund
+RFMZ,"RiverNorth Flexible Municipal Income Fund II, Inc."
+MOFG,"MidWestOne Financial Group, Inc."
+RBB,RBB Bancorp
+CWBC,Community West Bancshares
+GHI,Greystone Housing Impact Investors LP
+JRI,Nuveen Real Asset Income and Growth Fund
+CARE,"Carter Bankshares, Inc."
+KCLI,Kansas City Life Insurance Company
+ITIC,Investors Title Company
+DBIN,"Dacotah Banks, Inc."
+FOF,"Cohen & Steers Closed-End Opportunity Fund, Inc."
+SCM,Stellus Capital Investment Corporation
+MIY,"BlackRock MuniYield Michigan Quality Fund, Inc."
+IPXX,Inflection Point Acquisition Corp. II
+RRBI,"Red River Bancshares, Inc."
+BSRR,Sierra Bancorp
+MHN,"BlackRock MuniHoldings New York Quality Fund, Inc."
+PFL,PIMCO Income Strategy Fund
+ASG,"Liberty All-Star Growth Fund, Inc."
+AFB,"AllianceBernstein National Municipal Income Fund, Inc."
+PFIS,Peoples Financial Services Corp.
+NBH,Neuberger Berman Municipal Fund Inc.
+FRBA,First Bank
+BWB,"Bridgewater Bancshares, Inc."
+NRIM,"Northrim BanCorp, Inc."
+PMO,Putnam Municipal Opportunities Trust
+TWN,"The Taiwan Fund, Inc."
+HBCP,"Home Bancorp, Inc."
+NEWT,"NewtekOne, Inc."
+SAR,Saratoga Investment Corp.
+HYAC,Haymaker Acquisition Corp. 4
+FINS,Angel Oak Financial Strategies Income Term Trust
+PMTS,CPI Card Group Inc.
+NODK,"NI Holdings, Inc."
+FMAO,"Farmers & Merchants Bancorp, Inc."
+RMM,Rivernorth Managed Duration Municipal Income Fund Inc.
+TPVG,TriplePoint Venture Growth BDC Corp.
+RFI,"Cohen & Steers Total Return Realty Fund, Inc."
+JWSM,Jaws Mustang Acquisition Corporation
+BRW,Saba Capital Income & Opportunities Fund
+CPZ,Calamos Long/Short Equity & Dynamic Income Term Trust
+FBIZ,"First Business Financial Services, Inc."
+ACNB,ACNB Corporation
+JGH,Nuveen Global High Income Fund
+BYM,BlackRock Municipal Income Quality Trust
+FISI,"Financial Institutions, Inc."
+SPXX,Nuveen S&P 500 Dynamic Overwrite Fund
+BGH,Barings Global Short Duration High Yield Fund
+EBTC,"Enterprise Bancorp, Inc."
+FNBT,"FineMark Holdings, Inc."
+WHF,"WhiteHorse Finance, Inc."
+SCZC,West Coast Community Bancorp
+BGT,BlackRock Floating Rate Income Trust
+WTBA,"West Bancorporation, Inc."
+TCBX,"Third Coast Bancshares, Inc."
+DSM,"BNY Mellon Strategic Municipal Bond Fund, Inc."
+RCS,"PIMCO Strategic Income Fund, Inc."
+NCA,Nuveen California Municipal Value Fund
+BSVN,Bank7 Corp.
+UNTY,"Unity Bancorp, Inc."
+PMM,Putnam Managed Municipal Income Trust
+JRVR,"James River Group Holdings, Ltd."
+FFBB,FFB Bancorp
+FFWM,First Foundation Inc.
+CTR,ClearBridge MLP and Midstream Total Return Fund Inc.
+RM,Regional Management Corp.
+CBNK,"Capital Bancorp, Inc."
+OBT,"Orange County Bancorp, Inc."
+FSBW,"FS Bancorp, Inc."
+PBFS,"Pioneer Bancorp, Inc."
+MBI,MBIA Inc.
+AMBZ,American Business Bank
+AEF,Abrdn Emerging Markets Equity Income Fund Inc
+FNLC,"The First Bancorp, Inc."
+SBT,"Sterling Bancorp, Inc. (Southfield, MI)"
+IIF,"Morgan Stanley India Investment Fund, Inc."
+MCR,MFS Charter Income Trust
+SCD,LMP Capital and Income Fund Inc.
+FCT,First Trust Senior Floating Rate Income Fund II
+BMRC,Bank of Marin Bancorp
+CZNC,Citizens & Northern Corporation
+TRTL,TortoiseEcofin Acquisition Corp. III
+DBL,DoubleLine Opportunistic Credit Fund
+RIV,"RiverNorth Opportunities Fund, Inc."
+FRST,Primis Financial Corp.
+HYI,Western Asset High Yield Defined Opportunity Fund Inc.
+PMX,PIMCO Municipal Income Fund III
+EOT,Eaton Vance National Municipal Opportunities Trust
+LEGT,Legato Merger Corp. III
+SLAM,Slam Corp.
+FTF,Franklin Limited Duration Income Trust
+PLAO,Patria Latin American Opportunity Acquisition Corp.
+BNY,BlackRock New York Municipal Income Trust
+VPV,Invesco Pennsylvania Value Municipal Income Trust
+WSBF,"Waterstone Financial, Inc."
+ERC,Allspring Multi-Sector Income Fund
+NECB,"Northeast Community Bancorp, Inc."
+TEI,Templeton Emerging Markets Income Fund
+BKT,"BlackRock Income Trust, Inc."
+BCAL,Southern California Bancorp
+FDBC,"Fidelity D & D Bancorp, Inc."
+SVII,Spring Valley Acquisition Corp. II
+USCB,"USCB Financial Holdings, Inc."
+JMSB,"John Marshall Bancorp, Inc."
+NUW,Nuveen AMT-Free Municipal Value Fund
+NASB,"NASB Financial, Inc."
+AGD,Abrdn Global Dynamic Dividend Fund
+RENE,Cartesian Growth Corporation II
+JCE,Nuveen Core Equity Alpha Fund
+PMF,PIMCO Municipal Income Fund
+INBK,First Internet Bancorp
+MXF,"The Mexico Fund, Inc."
+SSBK,"Southern States Bancshares, Inc."
+PSF,"Cohen & Steers Select Preferred and Income Fund, Inc."
+GOCO,"GoHealth, Inc."
+EVM,Eaton Vance California Municipal Bond Fund
+DSBX,Dogwood State Bank
+SFST,"Southern First Bancshares, Inc."
+LNKB,"LINKBANCORP, Inc."
+MVBF,MVB Financial Corp.
+HLXB,Helix Acquisition Corp. II
+CIVB,"Civista Bancshares, Inc."
+CVLY,"Codorus Valley Bancorp, Inc."
+GLO,Clough Global Opportunities Fund
+AFT,Apollo Senior Floating Rate Fund Inc.
+CNDA,Concord Acquisition Corp II
+MVT,"BlackRock MuniVest Fund II, Inc."
+MQT,"BlackRock MuniYield Quality Fund II, Inc."
+FLIC,The First of Long Island Corporation
+BCML,BayCom Corp
+ALPIB,Alpine Banks of Colorado
+FUND,"Sprott Focus Trust, Inc."
+MUE,"BlackRock MuniHoldings Quality Fund II, Inc."
+PHT,"Pioneer High Income Fund, Inc."
+MFM,MFS Municipal Income Trust
+NTG,"Tortoise Midstream Energy Fund, Inc."
+PCB,PCB Bancorp
+JRS,Nuveen Real Estate Income Fund
+LGI,"Lazard Global Total Return and Income Fund, Inc."
+SABA,Saba Capital Income & Opportunities Fund II
+VTN,Invesco Trust for Investment Grade New York Municipals
+ACV,Virtus Diversified Income & Convertible Fund
+CLBR,Colombier Acquisition Corp. II
+CHMG,Chemung Financial Corporation
+COFS,"ChoiceOne Financial Services, Inc."
+BLFY,Blue Foundry Bancorp
+AIF,Apollo Tactical Income Fund Inc.
+EOD,Wells Fargo Advantage Funds - Allspring Global Dividend Opportunity Fund
+CBAN,"Colony Bankcorp, Inc."
+JOF,"Japan Smaller Capitalization Fund, Inc."
+GBFH,GBank Financial Holdings Inc.
+TSBK,"Timberland Bancorp, Inc."
+BPRN,"Princeton Bancorp, Inc."
+HMST,"HomeStreet, Inc."
+NHS,Neuberger Berman High Yield Strategies Fund Inc.
+PLBC,Plumas Bancorp
+SEDA,SDCL EDGE Acquisition Corporation
+HIE,Miller/Howard High Income Equity Fund
+EIC,Eagle Point Income Company Inc.
+MHI,"Pioneer Municipal High Income Fund, Inc."
+PDLB,"Ponce Financial Group, Inc."
+TDF,"Templeton Dragon Fund, Inc."
+BKN,BlackRock Investment Quality Municipal Trust Inc.
+CPSS,"Consumer Portfolio Services, Inc."
+SWKH,SWK Holdings Corporation
+KVAC,Keen Vision Acquisition Corporation
+CAF,"Morgan Stanley China A Share Fund, Inc."
+IVCB,Investcorp Europe Acquisition Corp I
+NPV,Nuveen Virginia Quality Municipal Income Fund
+ETX,Eaton Vance Municipal Income 2028 Term Trust
+GHIX,"Gores Holdings IX, Inc."
+CZFS,"Citizens Financial Services, Inc."
+OVLY,Oak Valley Bancorp
+PBAM,"Private Bancorp of America, Inc."
+OPP,"RiverNorth/DoubleLine Strategic Opportunity Fund, Inc."
+NWFL,Norwood Financial Corp.
+MAV,"Pioneer Municipal High Income Advantage Fund, Inc."
+HRTG,"Heritage Insurance Holdings, Inc."
+FFNW,"First Financial Northwest, Inc."
+DMB,"BNY Mellon Municipal Bond Infrastructure Fund, Inc."
+EMF,Templeton Emerging Markets Fund
+BWFG,"Bankwell Financial Group, Inc."
+MFIN,Medallion Financial Corp.
+CSHX,Cashmere Valley Bank
+PKBK,"Parke Bancorp, Inc."
+LCNB,LCNB Corp.
+SNFCA,Security National Financial Corporation
+PCK,PIMCO California Municipal Income Fund II
+FVCB,"FVCBankcorp, Inc."
+MBCN,Middlefield Banc Corp.
+WIA,Western Asset Inflation-Linked Income Fund
+IGI,Western Asset Investment Grade Defined Opportunity Trust Inc.
+PEGR,Project Energy Reimagined Acquisition Corp.
+PVBC,"Provident Bancorp, Inc."
+IVCA,Investcorp India Acquisition Corp
+BSL,Blackstone Senior Floating Rate 2027 Term Fund
+PTMN,Portman Ridge Finance Corporation
+ONIT,Onity Group Inc.
+SBXC,SilverBox Corp III
+GDO,Western Asset Global Corporate Defined Opportunity Fund Inc.
+CALB,California BanCorp
+TRIS,Tristar Acquisition I Corp.
+VBF,Invesco Bond Fund
+ATLO,Ames National Corporation
+NKSH,"National Bankshares, Inc."
+ESSA,"ESSA Bancorp, Inc."
+PPYA,Papaya Growth Opportunity Corp. I
+BFCC,BankFirst Capital Corporation
+PCQ,PIMCO California Municipal Income Fund
+ENX,Eaton Vance New York Municipal Bond Fund
+VABK,Virginia National Bankshares Corporation
+BCBP,"BCB Bancorp, Inc."
+MBLU,"Morris State Bancshares, Inc."
+HLAN,Heartland BancCorp
+HCVI,Hennessy Capital Investment Corp. VI
+INSI,Insight Select Income Fund
+COSO,"CoastalSouth Bancshares, Inc."
+HGLB,Highland Global Allocation Fund
+MPV,Barings Participation Investors
+FT,Franklin Universal Trust
+HYB,The New America High Income Fund Inc.
+UBAB,"United Bancorporation of Alabama, Inc."
+VERY,"Vericity, Inc."
+SPKL,Spark I Acquisition Corporation
+SKGR,SK Growth Opportunities Corporation
+BRKH,BurTech Acquisition Corp.
+LCW,Learn CW Investment Corporation
+CBH,Virtus Convertible & Income 2024 Target Term Fund
+MCAA,Mountain & Co. I Acquisition Corp.
+NFYS,Enphys Acquisition Corp.
+MYFW,"First Western Financial, Inc."
+FLC,Flaherty & Crumrine Total Return Fund Inc.
+PZC,PIMCO California Municipal Income Fund III
+MPA,BlackRock MuniYield Pennsylvania Quality Fund
+EHI,Western Asset Global High Income Fund Inc.
+EVE,EVe Mobility Acquisition Corp
+MRCC,Monroe Capital Corporation
+ALCY,Alchemy Investments Acquisition Corp 1
+BGX,Blackstone / GSO Long-Short Credit Income Fund
+IBAC,IB Acquisition Corp.
+NNY,Nuveen New York Municipal Value Fund
+TEAF,Ecofin Sustainable and Social Impact Term Fund
+IDE,"Voya Infrastructure, Industrials and Materials Fund"
+EMLD,FTAC Emerald Acquisition Corp.
+MCN,Madison Covered Call & Equity Strategy Fund
+EDF,Virtus Stone Harbor Emerging Markets Income Fund
+EVBN,"Evans Bancorp, Inc."
+ESHA,ESH Acquisition Corp.
+BFAC,Battery Future Acquisition Corp.
+MHF,Western Asset Municipal High Income Fund Inc.
+PWOD,"Penns Woods Bancorp, Inc."
+GGT,The Gabelli Multimedia Trust Inc.
+ISTR,Investar Holding Corporation
+PEBK,"Peoples Bancorp of North Carolina, Inc."
+CFFI,C&F Financial Corporation
+MSD,"Morgan Stanley Emerging Markets Debt Fund, Inc."
+DMF,"BNY Mellon Municipal Income, Inc."
+GRX,The Gabelli Healthcare & Wellness Trust
+DXYZ,Destiny Tech100 Inc.
+SPE,"Special Opportunities Fund, Inc."
+EVG,Eaton Vance Short Duration Diversified Income Fund
+SAMG,Silvercrest Asset Management Group Inc.
+WNEB,"Western New England Bancorp, Inc."
+VCXB,10X Capital Venture Acquisition Corp. III
+OPBK,OP Bancorp
+BCSA,Blockchain Coinvestors Acquisition Corp. I
+BWG,Legg Mason BW Global Income Opportunities Fund Inc.
+ISRL,Israel Acquisitions Corp
+HWBK,"Hawthorn Bancshares, Inc."
+FNRN,First Northern Community Bancorp
+EARN,Ellington Credit Company
+ISBA,Isabella Bank Corporation
+BVFL,"BV Financial, Inc."
+DMO,Western Asset Mortgage Opportunity Fund Inc.
+ATEK,Athena Technology Acquisition Corp. II
+LYBC,Lyons Bancorp Inc.
+FUNC,First United Corporation
+BTA,BlackRock Long-Term Municipal Advantage Trust
+AFBI,"Affinity Bancshares, Inc."
+IGA,Voya Global Advantage and Premium Opportunity Fund
+GF,"The New Germany Fund, Inc."
+PFD,Flaherty & Crumrine Preferred Income Fund Inc.
+FNCB,"FNCB Bancorp, Inc."
+BANX,ArrowMark Financial Corp.
+GLQ,Clough Global Equity Fund
+DCF,"BNY Mellon Alcentra Global Credit Income 2024 Target Term Fund, Inc."
+NNAG,99 Acquisition Group Inc.
+FINW,FinWise Bancorp
+MNTN,Everest Consolidator Acquisition Corporation
+ZLS,Zalatoris II Acquisition Corp.
+FMN,Federated Hermes Premier Municipal Income Fund
+OAKC,Oakworth Capital Inc.
+PHYT,Pyrophyte Acquisition Corp.
+NAZ,Nuveen Arizona Quality Municipal Income Fund
+RMBI,"Richmond Mutual Bancorporation, Inc."
+JHS,John Hancock Income Securities Trust
+GATE,Marblegate Acquisition Corp.
+VFL,abrdn National Municipal Income Fund
+MNSB,"MainStreet Bancshares, Inc."
+KCGI,Kensington Capital Acquisition Corp. V
+PBNC,PB Financial Corporation
+HEQ,John Hancock Hedged Equity & Income Fund
+BFIN,BankFinancial Corporation
+TYCB,"Calvin B. Taylor Bankshares, Inc."
+PROP,Prairie Operating Co.
+UBFO,United Security Bancshares
+EVGR,Evergreen Corporation
+WEA,Western Asset Premier Bond Fund
+FCCO,First Community Corporation
+FRAF,Franklin Financial Services Corporation
+KF,"The Korea Fund, Inc."
+BOID,Bank of Idaho Holding Company
+FSFG,"First Savings Financial Group, Inc."
+IFIN,InFinT Acquisition Corporation
+SRV,NXG Cushing Midstream Energy Fund
+PHD,"Pioneer Floating Rate Fund, Inc."
+BOCN,Blue Ocean Acquisition Corp.
+PCF,High Income Securities Fund
+RCFA,Perception Capital Corp. IV
+CCFN,Muncy Columbia Financial Corporation
+HNVR,"Hanover Bancorp, Inc."
+CFBK,CF Bankshares Inc.
+CZWI,"Citizens Community Bancorp, Inc."
+OFS,OFS Capital Corporation
+PLMI,Plum Acquisition Corp. I
+MRBK,Meridian Corporation
+JHI,John Hancock Investors Trust
+EFSI,"Eagle Financial Services, Inc."
+BYNO,byNordic Acquisition Corporation
+OCCI,"OFS Credit Company, Inc."
+ECBK,"ECB Bancorp, Inc."
+APXI,APx Acquisition Corp. I
+CBFV,"CB Financial Services, Inc."
+CDAQ,Compass Digital Acquisition Corp.
+CSTAF,Constellation Acquisition Corp
+PAI,Western Asset Investment Grade Income Fund Inc.
+ECF,Ellsworth Growth and Income Fund Ltd.
+PFTA,Perception Capital Corp. III
+WHG,"Westwood Holdings Group, Inc."
+NIM,Nuveen Select Maturities Municipal Fund
+FGBI,"First Guaranty Bancshares, Inc."
+MNAT,Marquette National Corporation
+PFO,Flaherty & Crumrine Preferred Income Opportunity Fund Inc.
+CGO,Calamos Global Total Return Fund
+SBI,Western Asset Intermediate Muni Fund Inc.
+PLMJ,Plum Acquisition Corp. III
+SFBC,"Sound Financial Bancorp, Inc."
+SRL,Scully Royalty Ltd.
+GECC,Great Elm Capital Corp.
+KSM,DWS Strategic Municipal Income Trust
+PCSC,Perceptive Capital Solutions Corp
+TLGY,TLGY Acquisition Corporation
+TGAA,Target Global Acquisition I Corp.
+NXG,NXG NextGen Infrastructure Income Fund
+MCBI,"Mountain Commerce Bancorp, Inc."
+WMPN,William Penn Bancorporation
+THCP,Thunder Bridge Capital Partners IV Inc.
+CSLM,CSLM Acquisition Corp.
+MCAC,Monterey Capital Acquisition Corporation
+BLUA,BlueRiver Acquisition Corp.
+FNWD,Finward Bancorp
+SWZ,The Swiss Helvetia Fund Inc.
+LARK,"Landmark Bancorp, Inc."
+GSIW,Garden Stage Limited
+FCAP,"First Capital, Inc."
+EBMT,"Eagle Bancorp Montana, Inc."
+NMT,Nuveen Massachusetts Quality Municipal Income Fund
+ALSA,Alpha Star Acquisition Corporation
+HMNF,"HMN Financial, Inc."
+CHN,"The China Fund, Inc."
+GPAC,Global Partner Acquisition Corp II
+CCIF,Carlyle Credit Income Fund
+CBBI,"CBB Bancorp, Inc."
+EVF,Eaton Vance Senior Income Trust
+RMI,"RiverNorth Opportunistic Municipal Income Fund, Inc."
+FETM,"Fentura Financial, Inc."
+PFLC,Pacific Financial Corporation
+BITE,Bite Acquisition Corp.
+JLS,Nuveen Mortgage and Income Fund
+NMI,"Nuveen Municipal Income Fund, Inc."
+SUAC,ShoulderUp Technology Acquisiti
+EMYB,"Embassy Bancorp, Inc."
+FGFH,"Foresight Financial Group, Inc."
+RFM,"RiverNorth Flexible Municipal Income Fund, Inc."
+IXAQ,IX Acquisition Corp.
+HNW,"Pioneer Diversified High Income Fund, Inc."
+UNB,"Union Bankshares, Inc."
+TBMC,Trailblazer Merger Corporation I
+IHD,Voya Emerging Markets High Dividend Equity Fund
+FXNC,First National Corporation
+CNBN,"CNB Bank Shares, Inc."
+BOWN,Bowen Acquisition Corp
+TYFG,"Tri-County Financial Group, Inc."
+ACAB,Atlantic Coastal Acquisition Corp. II
+CHBH,"Croghan Bancshares, Inc."
+SBFG,"SB Financial Group, Inc."
+OVBC,Ohio Valley Banc Corp.
+GGZ,The Gabelli Global Small and Mid Cap Value Trust
+ARBV,American Riviera Bancorp
+CNXX,CONX Corp.
+PFX,PhenixFIN Corporation
+PBNK,Pinnacle Bank
+BCG,"Binah Capital Group, Inc."
+SABK,"South Atlantic Bancshares, Inc."
+AFJK,"Aimei Health Technology Co., Ltd"
+TPZ,"Tortoise Power and Energy Infrastructure Fund, Inc."
+GDL,The GDL Fund
+NPAB,New Providence Acquisition Corp. II
+QETA,Quetta Acquisition Corporation
+GLAC,Global Lights Acquisition Corp
+BCV,Bancroft Fund Ltd.
+GNT,"GAMCO Natural Resources, Gold & Income Trust"
+PCM,PCM Fund Inc.
+DYCQ,DT Cloud Acquisition Corporation
+CWBK,CW Bancorp
+BKHA,Black Hawk Acquisition Corporation
+CITE,Cartica Acquisition Corp
+TMTC,TMT Acquisition Corp
+INBC,"InBankshares, Corp"
+ERH,Allspring Utilities and High Income Fund
+BSBK,Bogota Financial Corp.
+FNWB,First Northwest Bancorp
+KRNL,"Kernel Group Holdings, Inc."
+ONYX,Onyx Acquisition Co. I
+IROH,Iron Horse Acquisitions Corp.
+GAQ,Generation Asia I Acquisition Limited
+KISB,"Kish Bancorp, Inc."
+SRBK,"SR Bancorp, Inc."
+PWUP,PowerUp Acquisition Corp.
+GBBK,Global Blockchain Acquisition Corp.
+PGP,PIMCO Global StocksPLUS & Income Fund
+RBKB,"Rhinebeck Bancorp, Inc."
+ARYD,ARYA Sciences Acquisition Corp IV
+HSPO,Horizon Space Acquisition I Corp.
+BHAC,Focus Impact BH3 Acquisition Company
+IMAQ,International Media Acquisition Corp.
+VGI,Virtus Global Multi-Sector Income Fund
+GAMC,Golden Arrow Merger Corp.
+PSBQ,"PSB Holdings, Inc."
+DOMA,Doma Holdings Inc.
+BACA,Berenson Acquisition Corp. I
+VMCA,Valuence Merger Corp. I
+PROV,"Provident Financial Holdings, Inc."
+GLU,The Gabelli Global Utility & Income Trust
+PNI,PIMCO New York Municipal Income Fund II
+EMCG,Embrace Change Acquisition Corp.
+BUJA,Bukit Jalil Global Acquisition 1 Ltd
+ENBP,ENB Financial Corp
+FIAC,Focus Impact Acquisition Corp.
+NXC,Nuveen California Select Tax-Free Income Portfolio
+BNCC,"BNCCORP, Inc."
+WEL,Integrated Wellness Acquisition Corp
+IRAA,Iris Acquisition Corp
+JEQ,Abrdn Japan Equity Fund Inc
+CMTV,Community Bancorp
+AACI,Armada Acquisition Corp. I
+OAKU,Oak Woods Acquisition Corporation
+LATG,Chenghe Acquisition I Co.
+ASCB,A SPAC II Acquisition Corp.
+DPCS,DP Cap Acquisition Corp I
+PBHC,"Pathfinder Bancorp, Inc."
+CPKF,"Chesapeake Financial Shares, Inc."
+AITR,AI Transportation Acquisition Corp
+DECA,Denali Capital Acquisition Corp.
+CNGL,Canna-Global Acquisition Corp
+XFIN,ExcelFin Acquisition Corp.
+FCO,"abrdn Global Income Fund, Inc."
+HARL,Harleysville Financial Corporation
+TCOA,Zalatoris Acquisition Corp.
+GODN,Golden Star Acquisition Corporation
+BAYA,Bayview Acquisition Corp
+INAQ,Insight Acquisition Corp.
+PRLH,Pearl Holdings Acquisition Corp
+JDVB,"JD Bancshares, Inc."
+JVSA,JVSPAC Acquisition Corp.
+DTF,DTF Tax-Free Income 2028 Term Fund Inc.
+CHAA,Catcha Investment Corp
+CEV,Eaton Vance California Municipal Income Trust
+GDST,Goldenstone Acquisition Limited
+OPOF,Old Point Financial Corporation
+TETE,Technology & Telecommunication Acquisition Corporation
+FNVT,Finnovate Acquisition Corp.
+CBRG,Chain Bridge I
+PFBX,Peoples Financial Corporation
+TENK,TenX Keane Acquisition
+OCAX,OCA Acquisition Corp.
+FORL,Four Leaf Acquisition Corporation
+PMHG,Prime Meridian Holding Company
+CULL,"Cullman Bancorp, Inc."
+AEAE,AltEnergy Acquisition Corp.
+MGYR,"Magyar Bancorp, Inc."
+OFED,Oconee Federal Financial Corp.
+CNBB,"CNB Community Bancorp, Inc."
+UBCP,"United Bancorp, Inc."
+MSSA,Metal Sky Star Acquisition Corporation
+VBFC,Village Bank and Trust Financial Corp.
+TTP,"Tortoise Pipeline & Energy Fund, Inc."
+RGT,"Royce Global Trust, Inc."
+JFBC,Jeffersonville Bancorp
+GLV,Clough Global Dividend and Income Fund
+ICCH,"ICC Holdings, Inc."
+IFHI,"Integrated Financial Holdings, Inc."
+FDVA,"Freedom Financial Holdings, Inc."
+FRLA,Fortune Rise Acquisition Corporation
+IAE,Voya Asia Pacific High Dividend Equity Income Fund
+BCTF,"Bancorp 34, Inc."
+PTWO,"Pono Capital Two, Inc."
+TBNK,Territorial Bancorp Inc.
+CEE,"The Central and Eastern Europe Fund, Inc."
+DIST,Distoken Acquisition Corporation
+VLT,Invesco High Income Trust II
+MAQC,Maquia Capital Acquisition Corporation
+PGZ,Principal Real Estate Income Fund
+FISB,1st Capital Bancorp
+HAIA,Healthcare AI Acquisition Corp.
+LSBK,"Lake Shore Bancorp, Inc."
+UNIB,"University Bancorp, Inc."
+GLLI,Globalink Investment Inc.
+MDBH,"MDB Capital Holdings, LLC"
+KTHN,Katahdin Bankshares Corp.
+IOR,"Income Opportunity Realty Investors, Inc."
+NMS,Nuveen Minnesota Quality Municipal Income Fund
+CLOE,Clover Leaf Capital Corp.
+MFD,Macquarie/First Trust Global Infrastructure/Utilities Dividend & Income Fund
+CXH,MFS Investment Grade Municipal Trust
+AFAR,Aura FAT Projects Acquisition Corp
+IBTN,"InsCorp, Inc."
+IHTA,Invesco High Income 2024 Target Term Fund
+RFAC,RF Acquisition Corp.
+FTII,FutureTech II Acquisition Corp.
+FFBW,"FFBW, Inc."
+FAM,First Trust/Abrdn Global Opportunity Income Fund
+IGTA,Inception Growth Acquisition Limited
+AUBN,"Auburn National Bancorporation, Inc."
+SSBI,Summit State Bank
+PNF,PIMCO New York Municipal Income Fund
+JBTC,"JBT Bancorp, Inc."
+EEA,"The European Equity Fund, Inc."
+TRVR,"Two Rivers Financial Group, Inc."
+BKSC,Bank of South Carolina Corporation
+MNMB,"Merchants & Marine Bancorp, Inc."
+FBSI,"First Bancshares, Inc."
+SEPA,SEP Acquisition Corp.
+LRFC,Logan Ridge Finance Corporation
+CTUY,Century Next Financial Corporation
+NDP,"Tortoise Energy Independence Fund, Inc."
+BLHK,blueharbor bank
+BSFO,Bank of San Francisco
+HHGC,HHG Capital Corporation
+PPBN,Pinnacle Bankshares Corporation
+TCBC,"TC Bancshares, Inc."
+JMM,Nuveen Multi-Market Income Fund
+UBOH,"United Bancshares, Inc."
+SLBK,"Skyline Bankshares, Inc."
+FMBM,F & M Bank Corp.
+IROQ,"IF Bancorp, Inc."
+JUVF,Juniata Valley Financial Corp.
+CCNB,"Coastal Carolina Bancshares, Inc."
+WBBW,"Westbury Bancorp, Inc."
+HNNA,"Hennessy Advisors, Inc."
+BRAC,Broad Capital Acquisition Corp.
+NBST,Newbury Street Acquisition Corporation
+ROCL,Roth Ch Acquisition V Co.
+FUSB,"First US Bancshares, Inc."
+WRIV,White River Bancshares Co
+CLRC,ClimateRock
+RSF,"RiverNorth Capital and Income Fund, Inc."
+CLST,"Catalyst Bancorp, Inc."
+NSTS,"NSTS Bancorp, Inc."
+CBKM,"Consumers Bancorp, Inc."
+FMY,First Trust Mortgage Income Fund
+WTMA,Welsbach Technology Metals Acquisition Corp.
+ADRT,Ault Disruptive Technologies Corporation
+BCOW,"1895 Bancorp of Wisconsin, Inc."
+BAFN,BayFirst Financial Corp.
+BYFC,Broadway Financial Corporation
+BOTJ,"Bank of the James Financial Group, Inc."
+MARX,Mars Acquisition Corp.
+VSAC,Vision Sensing Acquisition Corp.
+AOGO,Arogo Capital Acquisition Corp.
+FTFI,"First Berlin Bancorp, Inc."
+NICK,"Nicholas Financial, Inc."
+LFGP,"Ledyard Financial Group, Inc."
+WINV,WinVest Acquisition Corp.
+FSEA,"First Seacoast Bancorp, Inc."
+NXN,Nuveen New York Select Tax-Free Income Portfolio
+TCBS,"Texas Community Bancshares, Inc."
+ACAC,Acri Capital Acquisition Corporation
+MVLY,Mission Valley Bancorp
+CFOK,Community First Bancorporation
+BNIX,Bannix Acquisition Corp.
+INTE,Integral Acquisition Corporation 1
+KACL,Kairous Acquisition Corp. Limited
+MACA,Moringa Acquisition Corp
+ENDI,"CrossingBridge Advisors, LLC"
+CIZN,Citizens Holding Company
+BLAC,Bellevue Life Sciences Acquisition Corp.
+DUET,DUET Acquisition Corp.
+CFSB,"CFSB Bancorp, Inc."
+YOTA,Yotta Acquisition Corporation
+MXE,Mexico Equity & Income Fund Inc.
+DMYY,"dMY Squared Technology Group, Inc."
+RWCB,Redwood Capital Bancorp
+CETU,Cetus Capital Acquisition Corp.
+FBTT,"First Bankers Trustshares, Inc."
+MSVB,"Mid-Southern Bancorp, Inc."
+NOVV,Nova Vision Acquisition Corporation
+QOMO,Qomolangma Acquisition Corp.
+WAVS,Western Acquisition Ventures Corp.
+CBAF,CITBA Financial Corporation
+OSBK,Oconee Financial Corporation
+CPBI,"Central Plains Bancshares, Inc."
+CBWA,Commencement Bancorp Inc.
+GLST,"Global Star Acquisition, Inc."
+ESBS,"ES Bancshares, Inc."
+GRF,"Eagle Capital Growth Fund, Inc."
+RAND,Rand Capital Corporation
+EGF,"BlackRock Enhanced Government Fund, Inc."
+HFBL,"Home Federal Bancorp, Inc. of Louisiana"
+PBBK,"PB Bankshares, Inc."
+MCAG,Mountain Crest Acquisition Corp. V
+NIDB,"Northeast Indiana Bancorp, Inc."
+STBI,"Sturgis Bancorp, Inc."
+PYN,PIMCO New York Municipal Income Fund III
+OTTW,"Ottawa Bancorp, Inc."
+MCHN,"McHenry Bancorp, Inc."
+PPAL,Peoples Trust Company of St. Albans
+EDVR,Endeavor Bancorp
+UNIF,U & I Financial Corp.
+CMUV,CMUV Bancorp
+HCBC,"High Country Bancorp, Inc."
+VWFB,"VWF Bancorp, Inc."
+CNAF,Commercial National Financial Corporation
+QNTO,"Quaint Oak Bancorp, Inc."
+HUDA,Hudson Acquisition I Corp.
+NOM,Nuveen Missouri Quality Municipal Income Fund
+TETAA,"Teton Advisors, LLC"
+ALBY,"Community Capital Bancshares, Inc."
+FBPA,The Farmers Bank of Appomattox
+GBNY,"Generations Bancorp NY, Inc."
+SLNH,"Soluna Holdings, Inc."
+CIBH,"CIB Marine Bancshares, Inc."
+SSBP,"SSB Bancorp, Inc."
+CYSM,Community Bancorp of Santa Maria
+WVFC,WVS Financial Corp.
+VTYB,"The Victory Bancorp, Inc."
+LOGN,Logansport Financial Corp.
+BHV,BlackRock Virginia Municipal Bond Trust
+PFSB,"PFS Bancorp, Inc."
+COHN,Cohen & Company Inc.
+STLY,"HG Holdings, Inc."
+MSBB,"Mercer Bancorp, Inc."
+UNTN,"United Tennessee Bankshares, Inc."
+GOVB,"Gouverneur Bancorp, Inc."
+VERF,Versailles Financial Corporation
+TRAC,"Track Data Corporation, Inc."
+DEFG,Grayscale Decentralized Finance (DeFi) Fund LLC
+SPMC,"Sound Point Meridian Capital, Inc."
+WFCL,1867 Western Financial Corporation
